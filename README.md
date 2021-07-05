@@ -32,9 +32,9 @@ In 2017, Edward L. Deci and Richard M. Ryan published a comprehensive account of
 
 In recent years, many of the ideas from Self-Determination Theory have been articulated in popular books.
 
-Dan Pink's book "Drive: The Surprising Truth About What Motivates Us" draws on many ideas from Self-Motivation, and concepts of "Mastery, Autonomy and Purpose" identified in that book as crucial for motivation closely mirror SDT's Competence, Autonomy and Relatedness.
+Dan Pink's book ["Drive: The Surprising Truth About What Motivates Us"](https://www.youtube.com/watch?v=u6XAPnuFjJc) draws on many ideas from Self-Motivation, and concepts of "Mastery, Autonomy and Purpose" identified in that book as crucial for motivation closely mirror SDT's Competence, Autonomy and Relatedness.
 
-In the field of parenting, Alfie Kohn's books such as "Punished by Rewards" and "Unconditional Parenting" also draw extensively on Self-Determination Theory and related studies, and highlight considerations such as the strong negative effects of rewards, and conditional regard, on intrinsic motivation and overall well-being.
+In the field of parenting, Alfie Kohn's books such as ["Punished by Rewards"](https://www.alfiekohn.org/punished-rewards/) and ["Unconditional Parenting"](https://alfiekohn.org/UP/) also draw extensively on Self-Determination Theory and related studies, and highlight considerations such as the strong negative effects of rewards, and conditional regard, on intrinsic motivation and overall well-being.
 
 Books such as these have been extremely helpful in questioning certain aspects of conventional wisdom, in particular regarding the relationship between rewards and motivation.  They have become popular, and I regularly come across key themes from them in blog posts about management, parenting, education etc.
 
@@ -50,7 +50,7 @@ I think the popularization of these ideas is wonderful.  However as these ideas 
 
 The first is that the ideas get diluted.  Popular writers aren't held to the same high standards as scientists in terms of taking a balanced view across all the available evidence.  We all know that some popular science books cherry pick evidence in order to support a compelling overall narrative (see: [The Gladwell Effect](https://www.nytimes.com/2006/02/05/books/review/the-gladwell-effect.html)).
 
-Given this background, it is easy to read a book like Dan Pink's "Drive" or Alfie Kohn's "Unconditional Parenting" and fail to realize quite how *compelling* the evidence is for some of the claims that they are making.  The principles they are sharing are not simply curious counterpoints to conventional thinking - they truly are principles to live by, because there is an overwhelming base of evidence in support of what they are saying in their respective fields.
+Given this background, it is easy to read a book like [Dan Pink's "Drive"](https://www.youtube.com/watch?v=u6XAPnuFjJc) or [Alfie Kohn's "Unconditional Parenting"](https://alfiekohn.org/UP/) and fail to realize quite how *compelling* the evidence is for some of the claims that they are making.  The principles they are sharing are not simply curious counterpoints to conventional thinking - they truly are principles to live by, because there is an overwhelming base of evidence in support of what they are saying in their respective fields.
 
 
 
@@ -170,6 +170,12 @@ https://selfdeterminationtheory.org/theory/
 https://selfdeterminationtheory.org/books/
 
 https://en.wikipedia.org/wiki/Self-determination_theory
+
+
+
+If you aren't familiar with Dan Pink, or Alfie Kohn (both mentioned above), you may find these to be good introductions:
+
+
 
 
 
