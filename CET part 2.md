@@ -4,6 +4,8 @@
 
 This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 7 of Deci & Ryan's "Self-Determination Theory".  See [this page](https://diarmidmackenzie.github.io/sdt-condensed) for background, and links to other articles in this series.
 
+[CET Part I](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%201.html) introduces some terminology that is used in this article.
+
 ## Interpersonal and Intrapersonal Processes Affecting Intrinsic Motivation
 
 This chapter extends the discussion of Cognitive Evaluation Theory (CET) by looking at how social contexts affect the functional significance of events, and therefore people's intrinsic motivation.
@@ -18,13 +20,13 @@ As with the previous chapter, the scope of this chapter is limited to intrinsic 
 
 The interpretation of the functional significance of an event does not take place in a vacuum, but occurs within a social context.
 
-While there are individual differences (discussed in a later chapter), there are also strong common patterns in how individuals are likely to construe events.
+There are strong common patterns in how individuals are likely to construe events, even though there are also individual differences (discussed in a later chapter).
 
 #### Interpersonal Contexts and External Events
 
 A dominant factor in terms of the influence of a particular context (e.g. classroom, home, clinic, office) is the orientations, intentions and behaviours of the people in positions of authority (e.g. teachers, parents, managers).
 
-And one key axis of orientation of such people is whether they are autonomy-supportive, or controlling.  This leads immediately to:
+One key axis of orientation of such people is whether they are autonomy-supportive, or controlling.  This leads immediately to:
 
 **CET Proposition IV**: Interpersonal contexts can be characterized in terms of the degree to which the motivational climate tends to be controlling, autonomy supportive, or amotivating.  This quality of the overarching interpersonal climate both directly impacts motivation and the likely interpretation of functional significance of specific events, with corresponding effects on intrinsic motivation.  Environments that are the most facilitating of intrinsic motivation are those that support people's basic psychological needs for autonomy, competence and relatedness.
 
@@ -37,7 +39,7 @@ Two kinds of study support CET proposition IV.
 
 #### Orientations Towards Autonomy Support vs Control
 
-In a pair of 1981 studies, the motivational orientations of teachers were assessed before they had met their class for the forthcoming academic year.  The assessment took the form of a set of questions about hypothetical classroom situations, and how they might respond to them, where both controlling and autonomy-supportive options were offered to choose from.
+In a pair of 1981 studies, the motivational orientations of teachers were assessed before they had met their class for the forthcoming academic year.  The assessment took the form of a set of questions about hypothetical classroom situations, and how they might respond to them, where both controlling and autonomy-supportive options were available to choose from.
 
 The teachers' students were then assessed, in their first week, then 2 months into the school year, and again at 8 months.
 
@@ -47,11 +49,11 @@ A 1986 study looked at students' perceptions of these classroom environments, an
 
 A workplace study similar to the 1981 classroom study, showed that controlling managers led to lower intrinsic motivation for work, greater alienation towards the company, and lower job satisfaction.
 
-A 1993 study that looked at interactions between mothers and their 6- and 7-year-old children showed that when mothers had an autonomy-supportive communication style, this led to stronger intrinsic motivation for their children i the activities that they had been doing together.
+A 1993 study that looked at interactions between mothers and their 6 and 7-year-old children showed that when mothers had an autonomy-supportive communication style, this led to stronger intrinsic motivation for their children in the activities that they had been doing together.
 
-There have been many more studies in this area, some of which are discussed in later chapters that specifically focus on parenting, schools & the workplace.  An important distinction to draw is that authority figures might not only fail to provide autonomy support, but they may actively thwart autonomy.  This latter behaviour turns out to have even worse effects on intrinsic motivation.
+There have been many more studies in this area, some of which are discussed in later chapters that specifically focus on parenting, schools and the workplace.  An important distinction to draw is that authority figures might not only fail to provide autonomy support, but they may actively thwart autonomy.  This latter behaviour turns out to have even worse effects on intrinsic motivation.
 
-A 2011 study explicitly looked at autonomy thwarting among athletics coaches.  Autonomy-thwarting behaviour was associated with need frustration, negative affect, symptoms of burnout, and higher stress levels in the athletes being coached.
+A 2011 study explicitly looked at autonomy-thwarting behaviours among athletics coaches.  Autonomy-thwarting behaviour was associated with need frustration, negative feelings, symptoms of burnout, and higher stress levels in the athletes being coached.
 
 It is worth noting that environments can be simultaneously need-supportive, but also need-thwarting, suggesting that these two aspects need to be considered as separate dimensions.
 
@@ -83,11 +85,11 @@ This idea of how limits can be set, and structure provided, in an autonomy-suppo
 
 A further consideration that affects the functional significance of feedback and rewards is the recipient's beliefs about the administrators' motives for providing the feedback/rewards.
 
-In a 1992 study, music lessons were delivered by tutors, who were described as (a) volunteers, and (b) tutoring for the pay.  The tutors were unaware of how they had been presented to the students.  Students who believed their teachers were volunteers enjoyed their lessons more, and expressed more interest in future learning.
+In a 1992 study, music lessons were delivered by tutors, who were described as (a) volunteers, or (b) tutoring for pay.  The tutors were unaware of how they had been presented to the students.  Students who believed their teachers were volunteers enjoyed their lessons more, and expressed more interest in future learning.
 
 These effects can also impact organizational atmospheres through *social contagion*.
 
-In a 2010 study, participant in a PE class were taught by instructors described as either volunteers, or working for pay.  Similar effects were observed to the music lessons in the 1992 study.  However, in this study, the participants then went on to instruct further classes.  The students in the classes led by students of "volunteers" showed more enjoyment and free-choice persistence, than students in classes led by students of "paid instructors".
+In a 2010 study, participant in a PE class were taught by instructors described as either volunteers, or working for pay.  Similar effects were observed to the music lessons in the 1992 study.  However, in this study, the students then went on to instruct further classes.  The students in the classes led by students of "volunteers" showed more enjoyment and free-choice persistence, than students in classes led by students of "paid instructors".
 
 A 1993 study showed that when participants were told that an observer was there to evaluate and enforce rules, they felt less autonomy, and less intrinsic motivation, than when they were told an observer was simply a curious and interested onlooker.
 
@@ -115,7 +117,7 @@ An interesting further point on this study: for these students who were close to
 
 A 2015 study looked at the relationship between relatedness and autonomy in relationships, and found that a climate of relatedness results in increased feelings of *both* autonomy *and* relatedness.  A key part of autonomy-support is being able to see things from the other person's point of view.  Therefore in any environment, there tend to be synergies between relatedness and autonomy.
 
-It does seem that some intrinsic motivation can occur without relatedness.  For example, activities like solo hiking, crossword puzzles, and reading are solitary and do not directly involve any relation with another person.  However, while the activities themselves not not directly involve relatedness, a secure relational base might nevertheless be an important support for the individual's intrinsic motivation for the activity.
+It does seem that some intrinsic motivation can occur without relatedness.  For example, activities like solo hiking, crossword puzzles, and reading are solitary and do not directly involve any relation with another person.  However, while the activities themselves may not directly involve relatedness, a secure relational base might nevertheless be an important support for the individual's intrinsic motivation for the activity.
 
 
 
@@ -127,13 +129,13 @@ However, there is an important question as to whether all autonomous motivation 
 
 Early in the development of SDT, Ryan (1982) used the term *internally controlling* to describe the idea of internal motivating forces in a person, for example as seen when a person is self-controlling or self-pressuring in an activity.
 
-Tyan specifically highlighted the possibility of *ego involvement*, with the view that ego involvement would be antagonistic to intrinsic motivation.
+Ryan specifically highlighted the possibility of *ego involvement*, with the view that ego involvement would be antagonistic to intrinsic motivation.
 
 #### Ego-Involvement vs. Task Involvement and Intrinsic Motivation
 
 *Ego-involvement* occurs when a person feels pressure to perform in certain ways that would be valued by a group that they belong to, or would like to belong to.  The concept dates back to Sherif and Cantril in 1947.
 
-Prior to Ryan's work in 1982, ego-0involvement had primarily been thought of a potential booster of motivation, rather than a potentially problematic factor.
+Prior to Ryan's work in 1982, ego-involvement had primarily been thought of as a potential booster of motivation, rather than a potentially problematic factor.
 
 In 1982, Greenwald highlighted three distinct senses in which the term *ego-involvement* had been used:
 
@@ -147,9 +149,9 @@ Ryan's 1982 study undertook to ask the question of whether ego-involvement, as a
 
 His initial experiments involved hidden-figures puzzles.  Some participants were told that being able to solve these puzzles was reflective of creative intelligence (thus invoking a level of ego-involvement).  Other participants were not told this.  All participants then received the same positive feedback.  The study showed that ego-involvement induced in this way *did* indeed diminish intrinsic motivation.
 
-The theory of what has happened here, is that, in becoming ego-involved with the task, participants feel that they *have* to perform well in order to maintain their self-worth, and this diminishes intrinsic motivation in much the same way that an externa control might.
+The theory of what has happened here, is that, in becoming ego-involved with the task, participants feel that they *have* to perform well in order to maintain their self-worth, and this diminishes intrinsic motivation in much the same way that an external control might.
 
-Further studies in 1985 and 1987 replicated this result.  One study in 1986 that did *not* replicate the result, induced ego-involvement in Greenwald's sense #3 above, creating a sense of personal importance in performing the activity, but not tying to any sense of evaluation.
+Further studies in 1985 and 1987 replicated this result.  One study in 1986 that did *not* replicate the result, induced ego-involvement in Greenwald's sense #3 above, creating a sense of personal importance in performing the activity, but not tying it to any sense of evaluation.
 
 In summary, ego-involvement is a form of internal control, with impacts on intrinsic motivation similar to external controls.  In later chapters, we shall see that ego-involvement becomes particularly strong in contexts where others are *conditionally regarding*.
 
@@ -159,7 +161,7 @@ This research leads to:
 
 #### Further Exploration of Internally Controlling States
 
-Another state that can operate in a similar way to ego-involvement is objective self-awareness, or public self-consciousness.  In tis state, rather than simply being involved in a task, a person objectifies themself, and concerns themself with how their behaviour and/or performance might appear.  In this state, the person is subject to another form of internal control.
+Another state that can operate in a similar way to ego-involvement is objective self-awareness, or public self-consciousness.  In this state, rather than simply being involved in a task, a person objectifies themself, and concerns themself with how their behaviour and/or performance might appear.  In this state, the person is subject to another form of internal control.
 
 A 1985 study (using either video cameras or mirrors to induce this state) showed that this state did impact intrinsic motivation, in a similar way to ego-involvement.
 
@@ -171,7 +173,7 @@ These various forms of self-pressuring and self-controlling are indeed fairly co
 
 Many studies of feedback provide positive feedback, in order to clearly isolate the influences of controlling aspects of feedback, and not mix in competence effects.
 
-But what happens in situations of ego-involvement, where negative feedback is provided.  One possibility is that people persist at the activity in order to do better, and rescue their sense of self-worth.  Such an effect would interfere with free choice measures of intrinsic motivation, since the choices observed would be driven by something other than intrinsic motivation.
+But what happens in situations of ego-involvement, where negative feedback is provided?  One possibility is that people persist at the activity in order to do better, and rescue their sense of self-worth.  Such an effect would interfere with free choice measures of intrinsic motivation, since the choices observed would be driven by something other than intrinsic motivation.
 
 This issue presents experimental challenges: where extrinsic motivators are external, they are easy for experimenters to control, turn on/off etc.  But this is not the case with internal motivators such as ego-involvement.
 
@@ -181,7 +183,7 @@ A 1991 study looked at this more closely.  It re-confirmed that ego-involvement 
 
 A further point to note is that when feedback is *very* negative, this can lead to all motivation being undermined, resulting in minimal persistence.
 
-One needs to be careful for the effects of ego involvement plus negative feedback, when interpreting experimental results.
+One needs to be careful of the effects of ego involvement plus negative feedback, when interpreting experimental results.
 
 ##### Ego-Involved Winning and Losing
 
@@ -210,19 +212,19 @@ In 1984, Deci hypothesized that students with intrinsic motivation would develop
 
 Various studies have shown that intrinsically motivated learning does indeed result in improved conceptual understanding.  Extrinsically motivated learning can lead to better short-term rote memorization, but these advantages do not seem to persist any longer than a week.
 
-These effects have been seen in lab studies involving university students studying complex material, and elementary students with simpler material.  Improved learning due to intrinsic has also been observed in the development of motor skills (specifically in a 2015 study in which participants developed their golf putting skills).
+These effects have been seen in lab studies involving university students studying complex material, and elementary students with simpler material.  Improved learning due to intrinsic motivation has also been observed in the development of motor skills (specifically in a 2015 study in which participants developed their golf putting skills).
 
-Aside from these lab studies, a 2009 longitudinal study, which looked at the relationship between parental motivational styles, and intrinsic motivation in maths and science.  Focussing on enjoyment and engagement in learning resulted in greater motivation at age 9, and at age 17, as compared to an approach that provided rewards and consequences based on performance.
+Aside from these lab studies, a 2009 longitudinal study looked at the relationship between parental motivational styles, and intrinsic motivation in maths and science.  Focussing on enjoyment and engagement in learning resulted in greater motivation at age 9, and at age 17, as compared to an approach that provided rewards and consequences based on performance.
 
 Further studies in this area are reviewed in Chapter 14, but overall there is strong evidence that intrinsic motivation leads to an increase in the quality and depth of learning.
 
 #### Performance
 
-Learning is one type of performance, but other the effect of intrinsic motivation on other types of performance have also been studied.
+Learning is one type of performance, but the effect of intrinsic motivation on other types of performance have also been studied.
 
 The effects of intrinsic motivation vs. extrinsic motivation seems to depend on the type of task.  For tasks that are interesting and complex ("heuristic" activities), extrinsic motivation seems to impair performance.  However,  for tasks that are straightforward, dull and uninteresting ("algorithmic" activities), extrinsic motivators do seem to boost performance.
 
-Ego-involvement seems to have the similar effects to external extrinsic motivators.
+Ego-involvement seems to have similar effects to external extrinsic motivators.
 
 What seems to happen with complex activities is that extrinsic motivation leads to a narrowing of focus, taking shortcuts to the desired extrinsic outcome where possible.  The resulting effect depends on the nature of the task: in some cases shortcuts lead to greater, or at least equal, performance.  But in more complex tasks, these shortcuts harm performance.
 
@@ -235,9 +237,9 @@ In 1983, Amabile hypothesized that conditions that lead to intrinsic motivation 
 This has been supported by various studies:
 
 - In a 1979 study with college students making collages, those who had been told they would be assessed were judged less creative than those who had no expectation of assessment.
-- in a 1982 study with children, also making collages, the promise of prizes reduced creativity.
-- in 1986 study, participants who participated in an activity in order to get a reward, were less creative than those who were 
-- A couple of 1984 studies showed that providing choices, minimizing the use of controlling language, and acknowledging children's feelings, all led to artistic products considered to be more creative.
+- In a 1982 study with children, also making collages, the promise of prizes reduced creativity.
+- In 1986 study, participants who participated in an activity in order to get a reward, were less creative than those who participated without the promise of a reward.
+- A couple of 1984 studies involving children's art activities showed that providing choices, minimizing the use of controlling language, and acknowledging children's feelings, all led to greater creativity.
 
 A 1997 meta-analysis of 24 experiments strongly supported the position that task-involvement, and conditions associated with intrinsic motivation, lead to higher quality performance than ego-involvement, and conditions associated with extrinsic motivation.  This conclusion held across a wide range of activities, from solving anagrams and finding hidden pictures, to playing basketball and writing poetry, with performance criteria ranging from numbers of puzzles solved, to the creativity of artistic products.
 
@@ -247,7 +249,7 @@ In creative fields, it seems that when extrinsic motivators are used to promote 
 
 ### Summary Notes
 
-The early findings of CET, that tangible rewards tended to undermine intrinsic motivation, were controversial, because at the time rewards were widely advocated as a way to change behaviour and socialize children.
+The early findings of CET, namely that tangible rewards tended to undermine intrinsic motivation, were controversial, because at the time rewards were widely advocated as a way to change behaviour and socialize children.
 
 Further research has shown a much wider range of factors beyond rewards, that have similar effects.  This includes not only other external factors, such as deadlines, evaluations, feedback etc., but also intrapersonal factors whereby individuals support or pressure themselves.  Internally controlling styles of self-motivation, and ego-involvement, can have undermining effects just the same as these external factors.
 
