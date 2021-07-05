@@ -173,12 +173,6 @@ For further information on Self-Determination Theory, see the following links
 
 
 
-If you aren't familiar with Dan Pink, or Alfie Kohn (both mentioned above), you may find these to be good introductions:
-
-
-
-
-
 #### Contact
 
 If you'd like to contact me about any aspect of this project, please see the contact details in my profile.
