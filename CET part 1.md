@@ -40,7 +40,7 @@ in 1971 Deci began with the research question: "What would happen to a person's 
 
 Underlying this specific question was the more abstract question as to whether extrinsic and intrinsic motivation were simply additive, or had some more complex interrelation.
 
-Operant psychology, the dominant paradigm in psychology at the time, held that intrinsic and extrinsic motivation would be additive.
+Operant psychology, the dominant paradigm in psychology at the time, held that intrinsic and extrinsic motivation would be additive (i.e. extrinsic motivation and intrinsic motivation could be added together without impacting each other).
 
 In order to measure "intrinsic motivation" Deci developed the "free choice paradigm".  The idea was to measure the amount of time that participants spend on an activity *after* some experimental intervention, when they are alone, free to choose what to do, and with no external incentives or evaluations.  This time duration is interpreted as a measure of intrinsic motivation.
 
@@ -54,7 +54,7 @@ The results of these studies caused an outcry among behaviourists, but multiple 
 
 A study by Ross in 1975 found a difference between children being told they would receive an (unspecified) prize for playing a drum, and those who were told they would receive a prize that was in a box in front of them.  Only for the latter group was intrinsic motivation to play with the drum diminished.
 
-Therefore it appears that the salience of the rewards is also significant in terms of the tendency of rewards to undermine intrinsic motivation.
+Therefore it appears that the salience of the rewards (i.e. to what extent they are at the forefront of awareness) is also significant in terms of the tendency of rewards to undermine intrinsic motivation.
 
 Overall, it appears that to undermine intrinsic motivation, rewards must be introduced before the activity begins, must be salient, and must be contingent.  It is notable that these attributes are all evident when rewards are used in a controlling manner.
 
@@ -82,7 +82,7 @@ A second parallel branch of research explored the impact of non-tangible rewards
 
 There are many different kinds of verbal rewards, including telling people they are good at the activity, telling them they are good for doing the activity, or telling them that they did better than others at the activity.  Each has a distinct effect.
 
-Earlu studies (1971 to 1975) showed that competence-focussed positive feedback enhanced subsequent intrinsic motivation.  Deci and Ryan theorized (1) that the feedback enhanced the participants' sense of competence, and (2) that since the feedback was unexpected, the participants' had no sense of having performed the task in order to receive praise, so they also had an I-PLOC rather than an E-PLOC.  Both of these mechanisms were thought to have lead to the increase in intrinsic motivation.
+Early studies (1971 to 1975) showed that competence-focussed positive feedback enhanced subsequent intrinsic motivation.  Deci and Ryan theorized (1) that the feedback enhanced the participants' sense of competence, and (2) that since the feedback was unexpected, the participants' had no sense of having performed the task in order to receive praise, so they also had an I-PLOC rather than an E-PLOC.  Both of these mechanisms were thought to have led to the increase in intrinsic motivation.
 
 In 1975, Smith tested the idea that some forms of praise might be experienced as evaluations, pressure, or control, prompting an E-PLOC.  His study showed that when people were told in advance that they would be evaluated on a task, this reduced their intrinsic motivation, even though the feedback was positive.
 
@@ -112,7 +112,7 @@ This leads to:
 
 
 
-**CET Proposition III:** External events relevant to the initiation and regulation of behaviour have three aspects, each with a functional significance.  The informational aspect, which conveys information about self-determined competence, facilitates an internal perceived locus of causality and perceived competence, thus supporting intrinsic motivation.  The controlling aspect, which pressures people to think, feel, or behave in particular ways, facilitates an external perceived locus of causality, thereby diminishing intrinsic motivation.  The amotivating aspect, which signifies incompetence to obtain outcomes and/or a lack of value for them, undermines both intrinsic and extrinsic motivation and promotes amotivation.  The relative salience of these three aspects for the person, which can be influenced by factors in the interpersonal context and the person, determines the functional significance of the event, and thus its impact on intrinsic motivation.
+**CET Proposition III:** External events relevant to the initiation and regulation of behaviour have three aspects, each with a functional significance.  The informational aspect, which conveys information about self-determined competence, facilitates an internal perceived locus of causality and perceived competence, thus supporting intrinsic motivation.  The controlling aspect, which pressures people to think, feel, or behave in particular ways, facilitates an external perceived locus of causality, thereby diminishing intrinsic motivation.  The amotivating aspect, which signifies incompetence to obtain outcomes and/or a lack of value for them, undermines both intrinsic and extrinsic motivation and promotes amotivation.  The relative salience of these three aspects for the person, which can be influenced by factors in the interpersonal context and in the person, determines the functional significance of the event, and thus its impact on intrinsic motivation.
 
 
 
@@ -180,7 +180,7 @@ Some commentary on this data...
 
 According to CET, positive feedback may have an informational aspect (positive for intrinsic motivation) or a controlling aspect (negative for intrinsic motivation).
 
-The observed difference between data for pre-school and school-aged children vs. college students is likely to be because children are more likely to experience the positive feedback as controlling, while college students are more likely to experience it as informational.
+The observed difference between data for children vs. college students is likely to be because children are more likely to experience the positive feedback as controlling, while college students are more likely to experience it as informational (Causality Orientation Theory, in chapter 9, will look at why this might be).
 
 ##### Tangible Rewards
 
@@ -199,7 +199,7 @@ There were four different approaches taken in performance-contingent reward expe
 1. participants getting the maximum possible reward, with the control group getting no reward & no feedback
 2. participants getting various different rewards, with the control group getting no reward & no feedback
 3. participants getting the maximum possible reward, and the control group getting the same positive feedback, but no reward
-4. participants rewards indicating poor performance, and the control group getting the same negative feedback, but no reward.
+4. participants getting rewards that indicated poor performance (e.g. their lowest tier of available reward), and the control group getting the same negative feedback, but no reward.
 
 Category 2 showed the strongest undermining effect (in fact this was the strongest undermining effect of all reward categories in the meta-analysis)
 
@@ -213,7 +213,7 @@ The same 1999 Deci meta-analysis also compared the undermining effect over vario
 
 #### Assessment of Intrinsic Motivation
 
-Another important point highlighted in the meta-analysis is that across the studies, there was only modest correlation between self-report measures of intrinsic motivation, and the free-choice measure.
+Another important point highlighted in the meta-analysis is that across the studies, there was only modest correlation between self-report measures of intrinsic motivation, and the free-choice measure (i.e. how long the participant actually chose to spend on the activity, in a subsequent free-choice situation).
 
 The free-choice measure consistently showed more significant undermining of intrinsic motivation than the self-report measure.
 
@@ -248,7 +248,7 @@ Research shows that rewarding outcomes tends to encourage people to take the "sh
 
 For example, when rewarded for solving puzzles, participants will choose the easiest puzzles, compared to the choices they make in a free choice scenario.
 
-More disturbingly, people may choose nonconstructive, or immoral, behaviours that leas to the outcome.  These behaviours can then be reinforced by the reward.  This is sometimes known as the "Enron effect", but similar effects have been seen with high-stakes testing at schools leading to school administrators cheating, or misreporting results, to achieve the desired outcomes.
+More disturbingly, people may choose nonconstructive, or immoral, behaviours that lead to the outcome.  These behaviours can then be reinforced by the reward.  This is sometimes known as the "Enron effect", but similar effects have been seen with high-stakes testing at schools leading to school administrators cheating, or misreporting results, to achieve the desired outcomes.
 
 We'll look at this in detail later, but for now, the point is that in order to reliably influence a specific behaviour, a reward must be linked directly to that behaviour.  A reward linked to an outcome is likely to lead people to unearth alternative easier behaviours that lead to the rewarded outcome.
 
@@ -328,7 +328,7 @@ Competition is often used in sports, games, and the arts to motivate, but what i
 
 A 1981 compared two groups of puzzle solvers - one was told their goal was to beat another participant the other to complete the puzzle as fast as they could.  Both were doing the puzzle head-to-head against another puzzle solver, and both received the same informational feedback that they had completed the puzzle faster than the other puzzle solver.
 
-This showed that having been asked to compete, had an undermining effect on intrinsic motivation (by the free choice measure).
+Those asked to compete subsequently spent less free-choice time playing with the puzzles than those who had not been asked to compete, suggesting that being asked to compete had an undermining effect on intrinsic motivation.
 
 This is interesting, because in SDT, competition should only have a negative impact on intrinsic motivation when it is experienced as controlling.  Competition can be highly informational, offering optimal information, and valuable feedback about performance.
 
@@ -358,7 +358,7 @@ The benefits of choice for intrinsic motivation have recently been supported by 
 
 #### Perceived Competence: Optimal Challenge and Informational Feedback
 
-Intrinsic motivation is theorized to occur under conditions of optimal challenge.  This relates to the idea that intrinsic motivation exists in humans to promote our growth (in skills, capabilities etc.)
+Intrinsic motivation is theorized to occur under conditions of optimal challenge.  This follows from the idea that the very reason intrinsic motivation exists in humans is to promote our growth (in skills, capabilities etc.).
 
 Where a person has mastered a skill, they may have high rates of success with an activity, but the activity won't typically provide opportunities for growth.  Demonstrating one's mastery of an activity can yield positive feelings, but these are typically extrinsic pleasures, such as impressing others or reaping the rewards of being skilled in that activity, rather than intrinsic pleasures.
 
@@ -372,7 +372,7 @@ Another 1976 study showed that rewarding children for solving puzzles tended to 
 
 Overall, the evidence shows that when children are free to select tasks, they select ones that provide optimal challenge, and this in turn maximizes their intrinsic motivation for the tasks.
 
-#### Feedback Effects
+#### Feedback Effects (Positive Feedback)
 
 SDT predicts that when a person is working on an activity that provides optimal challenge, positive feedback will typically enhance their intrinsic motivation.
 
@@ -381,11 +381,11 @@ This has been shown in multiple studies from 1984 to 2015.
 It is useful to distinguish two types of feedback:
 
 - task-inherent feedback is provided by the task itself, for example as one solves a crossword puzzle, one can see how many clues have been completed, that the letters do / do not fit etc.
-- other-mediated feedback is provided by another person observing the task performance.  For example, someone training as a psychotherapist won;t receive enough task-inherent feedback to know how they are doing, and will be dependent on feedback from a supervisor.
+- other-mediated feedback is provided by another person observing the task performance.  For example, someone training as a psychotherapist won't receive enough task-inherent feedback to know how they are doing, and will be dependent on feedback from a supervisor.
 
-There is a parallel here with naturally-occuring rewards, vs. administered rewards.
+There is a parallel here with naturally-occurring rewards, vs. administered rewards.
 
-Task-inherent feedback is very likely to be experienced as purely information, and non-controlling.  For other-mediated feedback, the functional significance depends on how the feedback is administered.
+Task-inherent feedback is very likely to be experienced as purely informational, and non-controlling.  For other-mediated feedback, the functional significance depends on how the feedback is administered.
 
 in 1982, Ryan showed that providing positive feedback in a controlling way, undermined intrinsic motivation, while equivalent feedback provided in an informational way enhanced intrinsic motivation.
 
