@@ -165,11 +165,11 @@ Applied chapters (coming later this year)
 
 For further information on Self-Determination Theory, see the following links
 
-https://selfdeterminationtheory.org/theory/
+[https://selfdeterminationtheory.org/theory/](https://selfdeterminationtheory.org/theory/)
 
-https://selfdeterminationtheory.org/books/
+[https://selfdeterminationtheory.org/books/](https://selfdeterminationtheory.org/books/)
 
-https://en.wikipedia.org/wiki/Self-determination_theory
+[https://en.wikipedia.org/wiki/Self-determination_theory](https://en.wikipedia.org/wiki/Self-determination_theory)
 
 
 
