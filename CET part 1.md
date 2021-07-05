@@ -2,7 +2,7 @@
 
 # Cognitive Evaluation Theory Part 1
 
-This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 6 of Deci & Ryan's "Self-Determination Theory".  See this page for background, and links to other articles in this series.
+This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 6 of Deci & Ryan's "Self-Determination Theory".  See [this](https://diarmidmackenzie.github.io/sdt-condensed) page for background, and links to other articles in this series.
 
 ## The Effects of Rewards, Feedback and Other External Events on Intrinsic Motivation
 

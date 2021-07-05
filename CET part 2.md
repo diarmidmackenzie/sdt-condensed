@@ -2,7 +2,7 @@
 
 # Cognitive Evaluation Theory, Part II
 
-This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 7 of Deci & Ryan's "Self-Determination Theory".  See this page for background, and links to other articles in this series.
+This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 7 of Deci & Ryan's "Self-Determination Theory".  See [this page](https://diarmidmackenzie.github.io/sdt-condensed) for background, and links to other articles in this series.
 
 ## Interpersonal and Intrapersonal Processes Affecting Intrinsic Motivation
 
