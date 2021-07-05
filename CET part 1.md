@@ -228,7 +228,7 @@ The net of the above is that there are reasons to consider the free-choice measu
 
 #### Comparison to previous Meta-Analyses
 
-Several previous (less comperhensive) meta-analyses were completed prior to 1999.
+Several previous (less comprehensive) meta-analyses were completed prior to 1999.
 
 Rummel and Feinberg (1988), Wiersma (1992) and Tang and Hall (1995) all conducted meta-analyses that provided support for CET.
 
