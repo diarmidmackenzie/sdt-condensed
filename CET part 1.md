@@ -174,7 +174,7 @@ In 1999 Deci created a comprehensive meta-analysis of relevant studies in this a
 
 The same data in diagrammatic form:
 
-![image-20210621202134040](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210621202134040.png)
+![image](.\image-cet-1-1.png)
 
 Some commentary on this data...
 
