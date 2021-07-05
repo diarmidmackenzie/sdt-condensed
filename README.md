@@ -66,11 +66,11 @@ Yet among the wide array of blog posts I see being shared regarding the problems
 
 #### Returning to the Source
 
-It was out of a sense of wanting to know "what the science really says" that I bought a copy of Deci and Ryan's "Self-Determination Theory", and began to read it.  It had just been published, and it looked like the definitive resource to use to really understand the science behind these ideas, to understand the weight of evidence for the theory, and to understand exactly what the theory says.
+It was out of a sense of wanting to know "what the science really says" that I bought a copy of Deci and Ryan's "Self-Determination Theory", and began to read it.  This was early in 2018 (3½ years ago at the time I'm writing this).  It had just been published, and it looked like the definitive resource to use to really understand the science behind these ideas, to understand the weight of evidence for the theory, and to understand exactly what the theory says.
 
 "Began" being the crucial word, as we shall see...
 
-Deci and Ryan's book is an extraordinary accomplishment - a comprehensive survey of over 4 decades of psychology research, an extremely detailed articulation of all aspects of Self-Determination Theory, the evidence that supports it, the areas where uncertainty remains, and its applications across a wide range of fields of life.
+Deci and Ryan's book is, without doubt, an extraordinary accomplishment: a comprehensive survey of 5 decades of psychology research, an extremely detailed articulation of all aspects of Self-Determination Theory, the evidence that supports it, the areas where uncertainty remains, and its applications across a wide range of fields of life.
 
 However, it is written for an academic audience, is extremely long and can be difficult to digest.  I found myself unable to read it cover to cover, and began dipping into the parts that seemed most relevant to me.
 
