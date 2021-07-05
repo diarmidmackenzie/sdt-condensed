@@ -114,8 +114,8 @@ The 6 mini-theories of SDT:
 
 1. Cognitive Evaluation Theory (CET) concerns **intrinsic motivation**, motivation that is based on the satisfactions of behaving “for its own sake”.
 
-   - Chapter 6 (CET Part I) - available now
-   - Chapter 7 (CET Part II) - available now
+   - [Chapter 6 (CET Part I)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%201.html) - available now
+   - [Chapter 7 (CET Part II)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.html) - available now
 
 2. Organismic Integration Theory (OIT) concerns **extrinsic motivation**, motivation that is based on some instrumental effect that the action is expected to lead to.
 
@@ -163,7 +163,7 @@ https://en.wikipedia.org/wiki/Self-determination_theory
 
 #### Contact
 
-If you'd like to contact me about any aspect of this project, please see the contact details in my Medium profile.
+If you'd like to contact me about any aspect of this project, please see the contact details in my profile.
 
 
 
