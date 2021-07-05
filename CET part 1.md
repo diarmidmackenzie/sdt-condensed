@@ -2,6 +2,8 @@
 
 # Cognitive Evaluation Theory Part 1
 
+This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 6 of Deci & Ryan's "Self-Determination Theory".  See this page for background, and links to other articles in this series.
+
 ## The Effects of Rewards, Feedback and Other External Events on Intrinsic Motivation
 
 Cognitive Evaluation Theory (CET) is the first of SDT's 6 mini-theories, and focuses exclusively on intrinsic motivation.

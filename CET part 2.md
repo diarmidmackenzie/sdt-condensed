@@ -2,6 +2,8 @@
 
 # Cognitive Evaluation Theory, Part II
 
+This is part of my "Self-Determination Theory: Condensed" series, based on Chapter 7 of Deci & Ryan's "Self-Determination Theory".  See this page for background, and links to other articles in this series.
+
 ## Interpersonal and Intrapersonal Processes Affecting Intrinsic Motivation
 
 This chapter extends the discussion of Cognitive Evaluation Theory (CET) by looking at how social contexts affect the functional significance of events, and therefore people's intrinsic motivation.
