@@ -4,6 +4,18 @@
 
 A brief overview of my "Self-Determination Theory: Condensed" project, which I am publishing online
 
+### Quick Links
+
+If you already know about these pages and want to jump straight in, use these links...
+
+- [Chapter 6 (CET Part I)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%201.html)
+
+- [Chapter 7 (CET Part II)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.html)
+
+- (more content coming soon)
+
+  
+
 #### Background
 
 Self-Determination Theory is a contemporary theory of human motivation and well-being.
@@ -164,14 +176,5 @@ https://en.wikipedia.org/wiki/Self-determination_theory
 #### Contact
 
 If you'd like to contact me about any aspect of this project, please see the contact details in my profile.
-
-
-
-
-
-
-
-
-
 
 
