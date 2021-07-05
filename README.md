@@ -32,7 +32,7 @@ In 2017, Edward L. Deci and Richard M. Ryan published a comprehensive account of
 
 In recent years, many of the ideas from Self-Determination Theory have been articulated in popular books.
 
-Dan Pink's book ["Drive: The Surprising Truth About What Motivates Us"](https://www.youtube.com/watch?v=u6XAPnuFjJc) draws on many ideas from Self-Motivation, and concepts of "Mastery, Autonomy and Purpose" identified in that book as crucial for motivation closely mirror SDT's Competence, Autonomy and Relatedness.
+Dan Pink's book ["Drive: The Surprising Truth About What Motivates Us"](https://www.youtube.com/watch?v=u6XAPnuFjJc) draws on many ideas from Self-Motivation Theory, and the concepts of "Mastery, Autonomy and Purpose" identified in that book as crucial for motivation closely mirror SDT's Competence, Autonomy and Relatedness.
 
 In the field of parenting, Alfie Kohn's books such as ["Punished by Rewards"](https://www.alfiekohn.org/punished-rewards/) and ["Unconditional Parenting"](https://alfiekohn.org/UP/) also draw extensively on Self-Determination Theory and related studies, and highlight considerations such as the strong negative effects of rewards, and conditional regard, on intrinsic motivation and overall well-being.
 
