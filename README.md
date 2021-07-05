@@ -42,7 +42,7 @@ Given this background, it is easy to read a book like Dan Pink's "Drive" or Alfi
 
 
 
-The second problem is that ideas get distorted.  Popularizers have to simplify things.  And they need to write compelling books, so sometimes they *do* twist data, or cherry-pick to support their overall narrative.  And when ideas get recycled through blog posts, social media etc., some level of distortion of the original ideas is inevitable.
+The second problem is that ideas get distorted.  Popularizers have to simplify things.  And they need to write compelling books, so sometimes they *do* gloss over details, or cherry-pick to support their overall narrative.  And when ideas get recycled through blog posts, social media etc., some level of distortion of the original ideas is inevitable.
 
 One example of such a distortion, in the domain of parenting, is the conflation of praise with rewards...
 
