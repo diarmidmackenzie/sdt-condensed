@@ -12,7 +12,7 @@ If you already know about these pages and want to jump straight in, use these li
 
 - [Chapter 7 (CET Part II)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.html)
 
-- (more content coming soon)
+- [Chapter 8 (OIT)](https://diarmidmackenzie.github.io/sdt-condensed/OIT.html)
 
   
 
@@ -131,7 +131,7 @@ The 6 mini-theories of SDT:
 
 2. Organismic Integration Theory (OIT) concerns **extrinsic motivation**, motivation that is based on some instrumental effect that the action is expected to lead to.
 
-   - Chapter 8 (OIT) - available by mid-July 2021
+   - [Chapter 8 (OIT)](https://diarmidmackenzie.github.io/sdt-condensed/OIT.html) - available now
 
 3. Causality Orientations Theory (COT) concerns individual differences that moderate the impacts of CET and OIT.
 
