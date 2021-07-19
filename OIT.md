@@ -34,7 +34,7 @@ In [chapter 7](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.h
 
 It's easy to find instances of diversity of the ways in which social values are internalized.
 
-Consider, for example, religious observance by teenage children.  Some children comply with their parents request to attend religious ceremonies due to feelings of guilt.  Others will do so on the basis of full acceptance of the religion and its teachings.  The same can happen with schooling, or any other demand that society places on its members. Extrinsically motivated behaviours may have a wide range of perceived locus of causality (PLOC), from E-PLOC to I-PLOC.
+Consider, for example, religious observance by teenage children.  Some children comply with their parents' request to attend religious ceremonies due to feelings of guilt.  Others will do so on the basis of full acceptance of the religion and its teachings.  The same can happen with schooling, or any other demand that society places on its members. Extrinsically motivated behaviours may have a wide range of perceived loci of causality (PLOC), from E-PLOC to I-PLOC.
 
 Organismic Integration Theory (OIT) was developed in order to model and explain this complex range of possibilities.
 
@@ -48,7 +48,7 @@ In formal terms:
 
 ### A Model of Internalization and Integration
 
-To transform values, beliefs or regulations that come from external sources into one's own, requires integrating them with other values beliefs or regulations that one already holds.
+To transform values, beliefs or regulations that come from external sources into one's own, requires integrating them with other values, beliefs or regulations that one already holds.
 
 This is an active process that may require adjustments or refinements to either the new idea, or to previously held ideas.
 
@@ -72,11 +72,11 @@ OIT identifies four types of extrinsic motivation, each corresponding to a diffe
 
 A behaviour is externally regulated, if it is motivated by an external reward or punishment.
 
-This is by far the most studied kind of extrinsic motivation.  Indeed, for decades, operant theorist held that all behaviour depended on such external contingencies.
+This is by far the most studied kind of extrinsic motivation.  Indeed, for decades, operant theorists held that all behaviour depended on such external contingencies.
 
 Operant psychologists have observed that certain procedures (e.g. certain reinforcement schedules) can result in behaviour continuing after the external contingencies are removed.  However they do not recognize *internalization* as a possible explanation of such effects.
 
-Within OIT, external regulation is behaviour where the reason for the behaviour is some external contingency.  Typically the behaviour will persist as long as the person has an expectation (explicit or implicit) that the external contingency remains in effect.  If the person believes that the external contingency is no longer in effect, the behaviour will likely not continue.
+Within OIT, external regulation is behaviour where the reason for the behaviour is some external contingency.  Typically the behaviour will persist as long as the person has an expectation (explicit or implicit) that the external contingency remains in effect.  If the person believes that the external contingency is no longer in effect, the behaviour will not usually continue.
 
 This type of regulation has an E-PLOC, and the behaviour is *controlled*.
 
@@ -100,13 +100,13 @@ Introjection is not merely a childhood phenomenon, or a stage of development.  I
 
 Even when a person successfully conforms to introjected ideals, the resulting self-esteem is not deep or resilient, since it depends on specific conditions persisting (wealth, achievement, attractiveness etc.).  Research has also shown that introjection drains vitality, and depletes ego.
 
-###### Internal Control and the Self
+##### Internal Control and the Self
 
 Historically, "self-control" has been understood as a positive attribute: having self-control is a personal strength.
 
 However, OIT identifies forms of self-control that are not self-directed, and therefore not autonomous.  Introjection is a kind of partial internalization, that results in self-control, but does not represent full autonomy, or self-regulation.
 
-A related concept, used by Kuhl (1996) is *self-infiltration*, whereby individuals adopts goals that someone else holds for them, as if they were their own.  Introjection, is a similar process, but with values and behaviours, rather than goals.
+A related concept, used by Kuhl (1996) is *self-infiltration*, whereby individuals adopt goals that someone else holds for them, as if they were their own.  Introjection, is a similar process, but with values and behaviours, rather than goals.
 
 The term *introjection* also appears in psychoanalytical writings (e.g. Schafer 1968).  There are strong similarities with SDT's conception of introjection at a phenomenological level.  However, these theories differ from SDT in terms of how introjection arises.
 
@@ -190,7 +190,7 @@ This quasi-simplex pattern has been observed in many dozens of studies since 198
 
 Other forms of analysis that have supported the idea of a continuum include *small space analysis* (a derivative of *multdimensional scaling*) and a *bifactor-ESEM framework* [explaining the technicalities of these types of statistical analysis is beyond the scope of this article].
 
-Most recently, a 2016 paper using samples from the United Stats and Russia, and a combination of all these techniques, reported robust evidence for an underlying continuum of autonomy.
+Most recently, a 2016 paper using samples from the United States and Russia, and a combination of all these techniques, reported robust evidence for an underlying continuum of autonomy.
 
 #### Predictive Indexes and Profiles
 
@@ -220,7 +220,7 @@ Multiple factors contribute to this, and it is not easy to separate out the rela
 - It could also be due to a shift in care-giving that begins to focus more on structures and prompts that encourage the internalization of key social values.
 - It may simply be a natural process that occurs as children mature and become more interested in participating competently within the adult social world.
 
-This next section looks more closely at internalization, and what supports - or inhibits - the internalization of particular ideas, behaviours or practises.
+This next section looks more closely at internalization, and what supports (or inhibits) the internalization of particular ideas, behaviours or practises.
 
 #### Intrinsic Motivation and Internalized Regulation
 
@@ -233,7 +233,7 @@ While this distinction can be important, some similarities are also important.
 
 One important *difference* between intrinsic motivation and integrated regulation is the person's perspective in terms of time.  With intrinsic motivation, although the activity may lead to future benefits such as increased competence, this is not the *aim*.  Whereas because integrated regulation is always instrumental, there is inherently a focus on future goals or outcomes.
 
-In order to feel positively inclined towards an activity that is not inherently enjoyable, it is necessary to bring the future to mind.  Mindfulness of these future outcomes and effects an essential support for identified regulation of an activity.
+In order to feel positively inclined towards an activity that is not inherently enjoyable, it is necessary to bring the future to mind.  Mindfulness of these future outcomes provides an essential support for identified regulation of an activity.
 
 Another important difference is that intrinsically motivated activities are typically spontaneous, whereas integrated regulation often follows a process of reflection on both goals and values, and the meaning, value or utility of an activity.  A 2016 study showed that a higher-level of reflection on why one was pursuing a goal (setting it into broader goals  and life context), led to a greater sense of both meaning and autonomy.
 
@@ -259,7 +259,7 @@ Identified regulations are typically more considered, which leads to them being 
 
 ##### Compartmentalized Identifications
 
-This distinction between open identifications (which are not held defensively) and closed identifications (which are consciously held and vigorously defended).
+This distinction between open identifications (which are not held defensively) and closed identifications (which are consciously held and vigorously defended) is important for explaining some aspects of human behaviour.
 
 OIT holds that there is an inherent tendency to integrate, unless there is something thwarting this natural process.
 
@@ -277,7 +277,7 @@ OIT holds that while our natural tendency is towards integration, coherence and 
 
 Internalization of the cultural norms in which a person is raised is a naturally occurring process, which serves that person's needs for relatedness, allows them to experience competence, and supports their need for autonomy.
 
-SDT asserts that extrinsic motivations and values are more fully internalized when people exist in need-supportive contexts.
+SDT asserts that extrinsic motivations and values are more fully internalized when people live in need-supportive environments.
 
 Research in 2007 showed that individuals whose parents had been more autonomy-supportive when transmitting their values
 
@@ -287,7 +287,7 @@ Research in 2007 showed that individuals whose parents had been more autonomy-su
 
 #### Need Support and Internalization
 
-The process of internalization is a natural part of human growth, but does still need a level of support.  In broad terms, each of autonomy, competence and relatedness is beneficial for internalization, but there are important specific relationships between individual needs, and particular styles of regulation.
+The process of internalization is a natural part of human growth, but does still need a level of support.  In broad terms, autonomy, competence and relatedness are each beneficial for internalization, but there are important specific relationships between individual needs, and particular styles of regulation.
 
 - All forms of behavioural regulation, even including external regulation require at least some minimal level of competence.
 
@@ -318,11 +318,11 @@ For now, we look at just a few examples of such studies.  First, some field stud
 
   Parents rated as controlling were typically very concerned with their children's outcomes.  However their attempts to control their children seem to have undermined the very academic outcomes that they were seeking.
 
-- A 2006 study looking at students' motivation to go to college, found that students' perceptions of parental need support was predictive of their autonomous self-regulation for pursuing further education.
+- A 2006 study looking at students' motivation to go to college, found that students' perceptions of the need support they received from their parents was predictive of their autonomous self-regulation for pursuing further education.
 
 Similar results have also been seen in laboratory studies.
 
-In a 1994 study, participants were asked to perform a boring task of watching a computer screen and pressing a button as quickly as possible each time dots flashed on the screen.  The study showed that free-choice persistence with this dull task was independently boosted by each of:
+In a 1994 study, participants were asked to perform a boring task of watching a computer screen and pressing a button as quickly as possible each time dots flashed on the screen.  The study showed that free-choice persistence with this dull task was independently boosted by:
 
 - providing a meaningful rationale for the activity
 
@@ -348,9 +348,9 @@ There are many further studies that have shown how autonomy support can boost bo
 
 This final point about long-term maintenance is crucial, because SDT theorizes that it is precisely through internalization (i.e. truly accepting the value of a healthier diet and regular exercise) that regulation is maintained in the long-term.
 
-A 2012 meta-analysis of 184 independent studies found that autonomy support strongly predicted autonomous motivation for health-behaviour change.
+A 2012 meta-analysis of 184 independent studies found that autonomy support strongly predicted autonomous motivation for changes in behaviour that would benefit health.
 
-These, and many other, studies show us that autonomy support is hugely important for the internalization of social values.  Unfortunately, in today's society, such conditions are frequently not provided, which results in sub-optimal internalization, with values and regulations never full integrated.
+These, and many other studies, show us that autonomy support is hugely important for the internalization of social values.  Unfortunately, in today's society, such conditions are frequently not provided, which results in sub-optimal internalization, with values and regulations never full integrated.
 
 ### The Consequences of Internalization
 
@@ -372,7 +372,7 @@ We look at a few of these studies here, although the later applied chapters will
 
 #### Internalization, Behavioural Persistence, and Goal Attainment
 
-A 1996 study of students' New Years Resolutions found that those whose who had had stronger identified or intrinsic reasons (rather than external or introjected reasons) were more likely to have maintained their resolutions two months later.
+A 1996 study of students' New Years Resolutions found that those who had stronger identified or intrinsic reasons (rather than external or introjected reasons) were more likely to have maintained their resolutions two months later.
 
 A couple of studies of pro-environmental behaviours  (in 1997 and 1999) found that people with more autonomous forms of motivation were more persistent in carrying out behaviours.  This relationship became stronger, the more difficult the behaviour was to carry out.
 
@@ -382,11 +382,11 @@ Other studies have shown similar effects in personal dental care, and studying m
 
 A slightly different pattern has been observed in studying treatment plans for alcoholism and opiate dependence.  In these contexts, it appears that introjected regulation is also strongly predictive for persistence.  External regulation, however, did not have any positive effects.  So, specifically in the context of heavy addictions, it seems that introjected regulation can be an important factor for positive outcomes - an effect that has not been seen in other contexts.
 
-Some studies related to opinion-forming highlighted some other differences in the dynamics of different regulatory styles.
+Some studies related to how people form opinions highlighted some other differences in the dynamics of different regulatory styles.
 
-Those with introjected beliefs were found to be vulnerable to persuasion (particularly by attractive communicators), and reliant on the opinions of important other, whereas those with identified beliefs tended to actively seek out information for themselves, form their own views, and be more resistant to persuasion.  These effects were seen in a 1996 study on voting behaviours, and a 2001 study on environmental attitudes.
+Those with introjected beliefs were found to be vulnerable to persuasion (particularly by attractive communicators), and reliant on the opinions of significant others, whereas those with identified beliefs tended to actively seek out information for themselves, form their own views, and be more resistant to persuasion.  These effects were seen in a 1996 study on voting behaviours, and a 2001 study on environmental attitudes.
 
-A follow-up study of political behaviour found that in this domain, identified regulation may in fact be superior to intrinsic motivation.  Those with high identification, who had internalized the importance of politics were more likely to vote, had stronger beliefs, and felt more positive if their side one, as compared to those who followed politics out of intrinsic interest.
+A follow-up study of political behaviour found that in this domain, identified regulation may in fact be superior to intrinsic motivation.  Those with high identification, who had internalized the importance of politics were more likely to vote, had stronger beliefs, and felt more positive if their side won, as compared to those who followed politics out of intrinsic interest.
 
 The above studies were selected in particular in order to highlight two key points:
 
@@ -407,7 +407,7 @@ Sheldon and Elliot have talked about an *upward spiral* whereby self-concordance
 
 Studies in 2002 identified two factors were important for goal attainment:
 
-- Implementation intentions (i.e. specific plans about when where and how to proceed with pursuit of the goal)#
+- Implementation intentions (i.e. specific plans about when, where and how to proceed with pursuit of the goal)
 - self-concordance.
 
 A follow-up study on New Year's Resolutions showed that in the absence of self-concordance, implementation intentions alone were insufficient to deliver progress on the resolution.
