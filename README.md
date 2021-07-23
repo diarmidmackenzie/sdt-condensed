@@ -9,12 +9,9 @@ A brief overview of my "Self-Determination Theory: Condensed" project, which I a
 If you already know about these pages and want to jump straight in, use these links...
 
 - [Chapter 6 (CET Part I)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%201.html)
-
 - [Chapter 7 (CET Part II)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.html)
-
 - [Chapter 8 (OIT)](https://diarmidmackenzie.github.io/sdt-condensed/OIT.html)
-
-  
+- [Chapter 9 (COT)](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)
 
 #### Background
 
@@ -135,7 +132,7 @@ The 6 mini-theories of SDT:
 
 3. Causality Orientations Theory (COT) concerns individual differences that moderate the impacts of CET and OIT.
 
-   - Chapter 9 (COT) - available by end-July 2021
+   - [Chapter 9 (COT)](https://diarmidmackenzie.github.io/sdt-condensed/COT.html) - available now
 
 4. Basic Psychological Needs Theory (BPNT) elaborates the concept of psychological needs, and relates them to psychological health and well-being
 
