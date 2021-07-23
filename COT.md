@@ -37,7 +37,7 @@ In general, these scores are considered to be general, or cross-domain - but for
 
 #### Why Study Individual Differences?
 
-The main reason for studying individual differences is to allow SDT to count for significant individual deviations from the general predictions of SDT.
+The main reason for studying individual differences is to allow SDT to account for significant individual deviations from the general predictions of SDT.
 
 People in controlling contexts are not always controlled: some continue to be autonomous.  And similarly, some people in autonomy-supporting contexts continue to operate as if they are controlled.  While mini-theories such as CET and OIT are highly predictive at a group level, they do not account for these outliers - and this is the role played by Causality Orientations Theory within SDT.
 
@@ -45,7 +45,7 @@ There are at least three ways in which individual differences can affect outcome
 
 - *seeking out* - e.g. people with a high autonomous orientation are more likely to seek out situations that are autonomy-supportive 
 - *interpretation* - different causality orientations may lead two people to interpret the same event in different ways - one may experience it as controlling, when the other does not.
-- *influencing social contexts* - e.g. someone with a strong controlled orientation may "pull on" their teacher or supervisor, leading to that person being more controlling than they might have been otherwise.
+- *influencing social contexts* - e.g. someone with a strong controlled orientation may "pull on" their teacher or supervisor to control them, leading to that person being more controlling than they might have been otherwise.
 
 COT includes descriptions of each of these effects.
 
@@ -197,7 +197,7 @@ Reactive autonomy had previously been related to a dislike of teamwork, being mo
 
 Kostener and Loesier showed that reactive autonomy was uncorrelated with reflective autonomy (i.e. the GCOS sub-scale of autonomous orientation), but *was* positively correlated with the GCOS sub-scale of controlled orientation.  Furthermore, reactive autonomy predicted more negative events and negative moods, while reflective autonomy predicted more positive events and positive moods.
 
-Further results included the observation that
+Further results included the observation that:
 
 - *reactive* autonomy was associated with negative interactions with authority figures, while reflective autonomy was not
 - *reflective* autonomy was associated with positive interactions with peers, while reactive autonomy was not.
@@ -247,7 +247,7 @@ As mentioned earlier, a 2011 study found that the effects of primed causality or
 
 A standard priming procedure is the *scrambled sentence method*.  Participants undertake a 5 minute task where they have to rearrange sentences, whose word order has been scrambled, into the correct order.  The autonomous orientation can be primed by including in the sentences words such as *interested*, *challenge*, *satisfied* and *mastering*.  The controlled orientation can be primed by including in the sentences words such as *obligation*, *evaluated*, *constrained*, *demanded* and *forced*.
 
-A 2003 study involving a puzzle task showed that such priming could affect not only participants feelings about the task (their level of interest and feeling of choice), but also their actual performance on the task.  The effect of the priming was as strong as the effect of different GCOS orientations, or the effect of autonomy-supporting vs. controlling task environment.
+A 2003 study involving a puzzle task showed that such priming could affect not only participants' feelings about the task (their level of interest and feeling of choice), but also their actual performance on the task.  The effect of the priming was as strong as the effect of different GCOS orientations, or the effect of autonomy-supporting vs. controlling task environment.
 
 A follow-up study revealed two further interesting results:
 
@@ -256,7 +256,7 @@ A follow-up study revealed two further interesting results:
 
 Further studies of this kind of scrambled-sentence priming have shown that several other effects previously observed with GCOS can also be generated with priming:
 
-- A 2006 series of studies showed that priming could influence defensiveness, self-serving bias, and self-handicapping.  In each case, the results matched results that had previously been shown using GCOS scores, with autonomous primes resulting in the lowest levels of these negative behaviours, and impersonal primes that highest levels.
+- A 2006 series of studies showed that priming could influence defensiveness, self-serving bias, and self-handicapping.  In each case, the results matched results that had previously been shown using GCOS scores, with autonomous primes resulting in the lowest levels of these negative behaviours, and impersonal primes the highest levels.
 - Further studies have shown that these kinds of primes are effective in modifying behaviour in stressful interview situations, and when making speeches.
 
 These priming studies are important for a couple of reasons:
@@ -268,7 +268,7 @@ These priming studies are important for a couple of reasons:
 
 A 2010 lab study looked at the effects of factors known to be autonomy-supportive, or controlling, upon the development of new relationships.  Participants were introduced to each other, and invited to share personal information with each other in an environment that had been constructed to be either autonomy-supporting or controlling (or a neutral control environment).
 
-The study found that autonomy-supportive factors led to greater relationship satisfaction, more positive emotions, and well-being, while controlling factors had he opposite effects.
+The study found that autonomy-supportive factors led to greater relationship satisfaction, more positive emotions, and well-being, while controlling factors had the opposite effects.
 
 This suggests that autonomy and control can significantly affect not only motivation and performance, but also the quality of interpersonal relationships.
 
@@ -278,7 +278,7 @@ Generalized Causality Orientations reflect individuals' tendency for their motiv
 
 These individual differences explain why different people respond differently within the same, or similar, social contexts.
 
-The autonomy orientation is strongly associated with the healthiest development and greatest personality integration, the controlled orientation is associated with more rigidity and defensiveness, while the impersonal orientation is associated with amotivation and the poorest well-being.
+The autonomy orientation is strongly associated with the healthiest development and greatest personality integration, the controlled orientation is associated with more rigidity and defensiveness, while the impersonal orientation is associated with amotivation and the lowest well-being.
 
 ### Key Concepts from this Chapter
 
@@ -302,11 +302,11 @@ The autonomy orientation is strongly associated with the healthiest development 
 
 **Reflective Autonomy**: This term refers to *autonomy* in the sense used in SDT, used in contexts where there is a need to distinguish from *reactive autonomy*
 
-**COT Proposition IV**: In a particular time and place, which of an individual's causality orientations is most salient will be affected by the environment.  In particular, it is possible to prime particular motivational orientations.
+**COT Proposition IV**: In a particular time and place, which causality orientation is most salient in an individual, will be affected by the environment.  In particular, it is possible to prime particular motivational orientations.
 
 **Priming**: A process by which a particular attitude or idea is sub-consciously made salient for a participant in an experiment.
 
-**Scrambled sentence method**: A priming procedure based on an exercise in which the words of sentences are rearranged.  The  choices of vocabulary in the sentences has been shown to result in priming of various different causality orientations.
+**Scrambled sentence method**: A priming procedure based on an exercise in which the words of sentences are rearranged.  The  choices of vocabulary in the sentences have been shown to result in priming of various different causality orientations.
 
 
 
