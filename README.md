@@ -12,6 +12,7 @@ If you already know about these pages and want to jump straight in, use these li
 - [Chapter 7 (CET Part II)](https://diarmidmackenzie.github.io/sdt-condensed/CET%20part%202.html)
 - [Chapter 8 (OIT)](https://diarmidmackenzie.github.io/sdt-condensed/OIT.html)
 - [Chapter 9 (COT)](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)
+- [Chapter 10 (BPNT)](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html)
 
 #### Background
 
@@ -136,7 +137,7 @@ The 6 mini-theories of SDT:
 
 4. Basic Psychological Needs Theory (BPNT) elaborates the concept of psychological needs, and relates them to psychological health and well-being
 
-   - Chapter 10 (BPNT) - available by mid-Sep 2021
+   - [Chapter 10 (BPNT)](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html) - available now
 
 5. Goal Contents Theory
 
