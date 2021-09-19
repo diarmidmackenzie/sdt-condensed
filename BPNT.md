@@ -10,8 +10,6 @@ This chapter explains:
 - The concept of *vitality*, which is a very important dimension of well-being
 - The importance of *awareness* for need satisfaction.
 
-###Re-review this when I have read the whole chapter!
-
 ### On Wellness
 
 What exactly is meant by *wellness* or *well-being* has been a matter of considerable debate.
