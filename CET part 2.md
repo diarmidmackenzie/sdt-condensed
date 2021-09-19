@@ -28,7 +28,7 @@ A dominant factor in terms of the influence of a particular context (e.g. classr
 
 One key axis of orientation of such people is whether they are autonomy-supportive, or controlling.  This leads immediately to:
 
-**CET Proposition IV**: Interpersonal contexts can be characterized in terms of the degree to which the motivational climate tends to be controlling, autonomy supportive, or amotivating.  This quality of the overarching interpersonal climate both directly impacts motivation and the likely interpretation of functional significance of specific events, with corresponding effects on intrinsic motivation.  Environments that are the most facilitating of intrinsic motivation are those that support people's basic psychological needs for autonomy, competence and relatedness.
+> **CET Proposition IV**: Interpersonal contexts can be characterized in terms of the degree to which the motivational climate tends to be controlling, autonomy supportive, or amotivating.  This quality of the overarching interpersonal climate both directly impacts motivation and the likely interpretation of functional significance of specific events, with corresponding effects on intrinsic motivation.  Environments that are the most facilitating of intrinsic motivation are those that support people's basic psychological needs for autonomy, competence and relatedness.
 
 
 
@@ -157,7 +157,7 @@ In summary, ego-involvement is a form of internal control, with impacts on intri
 
 This research leads to:
 
-**CET Proposition V**: Intrapersonal events that bear on the initiation and regulation of behaviour can differ in their functional significance.  Accordingly, internally informational events are those that facilitate intrinsic motivation by facilitating an internal perceived locus of causality and perceived competence; internally controlling events are those experienced as pressure towards specific outcomes and facilitate an external perceived locus of causality, thereby undermining intrinsic motivation; and internally amotivating events are those that make salient someone's incompetence and inability to attain desired outcomes, thereby diminishing both intrinsic and extrinsic motivation.
+> **CET Proposition V**: Intrapersonal events that bear on the initiation and regulation of behaviour can differ in their functional significance.  Accordingly, internally informational events are those that facilitate intrinsic motivation by facilitating an internal perceived locus of causality and perceived competence; internally controlling events are those experienced as pressure towards specific outcomes and facilitate an external perceived locus of causality, thereby undermining intrinsic motivation; and internally amotivating events are those that make salient someone's incompetence and inability to attain desired outcomes, thereby diminishing both intrinsic and extrinsic motivation.
 
 #### Further Exploration of Internally Controlling States
 

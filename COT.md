@@ -29,7 +29,7 @@ For example, a 2011 study found that, for people high in autonomy orientation, t
 
 The above is formally presented as:
 
-**COT Proposition I**: People have three different motivational orientations - called *causality orientations* - that represent global-level individual differences.  Causality orientations are propensities to focus on certain aspects of environments and inner capacities that concern motivation and the causes of behaviour.  These are labelled the *autonomy orientation*, the *controlled orientation* and the *impersonal orientation*.  These orientations affect people's situation-specific motivation, as well as their general need satisfaction, behaviour, and experience.
+> **COT Proposition I**: People have three different motivational orientations - called *causality orientations* - that represent global-level individual differences.  Causality orientations are propensities to focus on certain aspects of environments and inner capacities that concern motivation and the causes of behaviour.  These are labelled the *autonomy orientation*, the *controlled orientation* and the *impersonal orientation*.  These orientations affect people's situation-specific motivation, as well as their general need satisfaction, behaviour, and experience.
 
 COT does not suggest that people have one exclusive orientation.  Rather, each person has some degree of each of the three orientations.  The *General Causality Orientations Scale* provides people with a score for each orientation.
 
@@ -55,7 +55,7 @@ Causality orientations are both an output of past development, and an input into
 
 How causality orientations develop is described by the following formal proposition.
 
-**COT Proposition II**: Causality orientations are developmental outcomes that are influenced over time by biological and social-contextual factors that impact satisfaction of the basic psychological needs for autonomy, competence and relatedness.  To the degree that individuals' social environments are substantially and persistently autonomy-supportive, controlling, or amotivating, people will, respectively, tend to develop strong autonomy orientations, controlled orientations or impersonal orientations.
+> **COT Proposition II**: Causality orientations are developmental outcomes that are influenced over time by biological and social-contextual factors that impact satisfaction of the basic psychological needs for autonomy, competence and relatedness.  To the degree that individuals' social environments are substantially and persistently autonomy-supportive, controlling, or amotivating, people will, respectively, tend to develop strong autonomy orientations, controlled orientations or impersonal orientations.
 
 ### Assessing General Causality Orientations
 
@@ -118,7 +118,7 @@ Later studies have shown a number of other effects:
 
 Collectively, these empirical results led to a 3rd formal proposition of COT:
 
-**COT Proposition III**: Causality orientations affect people's effectiveness in engaging with their surroundings, as well as their psychological well-being, as mediated by types of domain- and situation-specific motivations and need satisfactions.  The autonomy orientation promotes greater integration of personality, which strengthens itself and promotes effective performance and well-being.  The controlled orientation promotes introjection and rigidity, which strengthens itself and promotes less-effective self-regulation and less positive experience.  The impersonal orientation promotes the experience of ineffectiveness and amotivation, thereby strengthening itself and leading to the least effective performance and lower well-being outcomes.
+> **COT Proposition III**: Causality orientations affect people's effectiveness in engaging with their surroundings, as well as their psychological well-being, as mediated by types of domain- and situation-specific motivations and need satisfactions.  The autonomy orientation promotes greater integration of personality, which strengthens itself and promotes effective performance and well-being.  The controlled orientation promotes introjection and rigidity, which strengthens itself and promotes less-effective self-regulation and less positive experience.  The impersonal orientation promotes the experience of ineffectiveness and amotivation, thereby strengthening itself and leading to the least effective performance and lower well-being outcomes.
 
 #### Locus of Control and Locus of Causality
 
@@ -241,7 +241,8 @@ An individual's general causality orientation can be seen as a kind of "average"
 
 This is covered by a fourth formal proposition of Causality Orientation Theory:
 
-**COT Proposition IV**: All individuals have three causality orientations to some degree.  Subtle cues in the environment may make different orientations more salient at that time and place.  Thus, it is possible to prime people's motivational orientations such that their behaviour and experience will be significantly affected by the primed motivation, even if that orientation is, in general, relatively weak.
+> **COT Proposition IV**: All individuals have three causality orientations to some degree.  Subtle cues in the environment may make different orientations more salient at that time and place.  Thus, it is possible to prime people's motivational orientations such that their behaviour and experience will be significantly affected by the primed motivation, even if that orientation is, in general, relatively weak.
+>
 
 As mentioned earlier, a 2011 study found that the effects of primed causality orientations could be just as strong as the effects of individual's general causality orientations.
 

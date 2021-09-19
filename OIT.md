@@ -44,7 +44,7 @@ OIT sees internalization as a natural process, but one that only functions optim
 
 In formal terms:
 
-**OIT Proposition I**: The process of organismic integration inclines humans naturally to internalize extrinsic motivations that are endorsed by significant others.  However, the process of internalization can function more versus less effectively, resulting in different degrees of internalization that are the basis for regulations that differ in perceived locus of causality and thus the extent to which they are autonomous.
+> **OIT Proposition I**: The process of organismic integration inclines humans naturally to internalize extrinsic motivations that are endorsed by significant others.  However, the process of internalization can function more versus less effectively, resulting in different degrees of internalization that are the basis for regulations that differ in perceived locus of causality and thus the extent to which they are autonomous.
 
 ### A Model of Internalization and Integration
 
@@ -172,9 +172,7 @@ Indeed there are plenty of examples of behaviours for which it is healthy and pr
 
 Having introduced the various concepts above, we are now in a position to present another formal proposition of OIT:
 
-**OIT Proposition II**: Internalization of extrinsic motivation can be described in terms of a continuum that spans from relatively heteronomous or controlled regulation to relatively autonomous self-regulation.  *External regulation* describes extrinsic motivation that remains dependent on external controls; *introjected regulation* describes extrinsic motivation that is based on internal controls involving affective and self-esteem contingencies; *regulation through identification* describes extrinsic motivation that has been accepted as personally valuable and important; and *integrated regulation* describes extrinsic motivation that is fully self-endorsed and has been well assimilated with other identifications, values and needs.  Regulations that lie further along this continuum from external towards integrated are more fully internalized, and the resulting behaviours are more autonomous.
-
-
+> **OIT Proposition II**: Internalization of extrinsic motivation can be described in terms of a continuum that spans from relatively heteronomous or controlled regulation to relatively autonomous self-regulation.  *External regulation* describes extrinsic motivation that remains dependent on external controls; *introjected regulation* describes extrinsic motivation that is based on internal controls involving affective and self-esteem contingencies; *regulation through identification* describes extrinsic motivation that has been accepted as personally valuable and important; and *integrated regulation* describes extrinsic motivation that is fully self-endorsed and has been well assimilated with other identifications, values and needs.  Regulations that lie further along this continuum from external towards integrated are more fully internalized, and the resulting behaviours are more autonomous.
 
 The following diagram summarises all the different forms of behavioural regulation, including intrinsic motivation, the various forms of extrinsic motivation, and amotivation.
 
@@ -297,9 +295,7 @@ The process of internalization is a natural part of human growth, but does still
 
 In this context, we present the 3rd formal proposition of OIT:
 
-**OIT Proposition III**: Supports for the basic needs for competence, relatedness and autonomy facilitate the internalization and integration of non-intrinsically motivated behaviours.  To the extent that the context is controlling, and/or relatedness and competence needs are thwarted, internalization, and particularly identification or integrated regulation, will be less likely.
-
-
+> **OIT Proposition III**: Supports for the basic needs for competence, relatedness and autonomy facilitate the internalization and integration of non-intrinsically motivated behaviours.  To the extent that the context is controlling, and/or relatedness and competence needs are thwarted, internalization, and particularly identification or integrated regulation, will be less likely.
 
 This proposition is relevant both at a social  psychological level (i.e. short-term, and with regard to a specific behaviour or value) and at a developmental level (i.e. longer term, and with regard to the broader development of autonomous self-regulation).
 
@@ -360,9 +356,9 @@ Integrated self-regulation is also likely to be more congruent with basic psycho
 
 This leads to the two final formal propositions of OIT:
 
-**OIT Proposition IV**: To the degree that people's behaviour is regulated through more autonomous or integrated forms of internalization, they will display greater behavioural persistence at activities, a higher quality of behaviour, and more effective performance, especially for more difficult or complex actions.
+> **OIT Proposition IV**: To the degree that people's behaviour is regulated through more autonomous or integrated forms of internalization, they will display greater behavioural persistence at activities, a higher quality of behaviour, and more effective performance, especially for more difficult or complex actions.
 
-**OIT Proposition V**: To the degree that people's behaviour is regulated through more integrated forms of internalization, they will have more positive experiences and greater psychological health and well-being.
+> **OIT Proposition V**: To the degree that people's behaviour is regulated through more integrated forms of internalization, they will have more positive experiences and greater psychological health and well-being.
 
 A large number of studies, employing a wide range of different methods, have provided evidence for these propositions.
 

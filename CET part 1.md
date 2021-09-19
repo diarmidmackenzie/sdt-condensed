@@ -98,11 +98,11 @@ The various studies described above led to the formulation of the first two form
 
 
 
-**CET Proposition I**: External events relevant to the initiation or regulation of behaviour will affect a person's intrinsic motivation to the extent that they influence the perceived locus of causality for the behaviour.  Events that promote a more external perceived locus of causality or have a functional significance of control will thwart autonomy and undermine intrinsic motivation, whereas those that promote a more internal perceived locus of causality will increase feelings of autonomy and enhance intrinsic motivation.
+> **CET Proposition I**: External events relevant to the initiation or regulation of behaviour will affect a person's intrinsic motivation to the extent that they influence the perceived locus of causality for the behaviour.  Events that promote a more external perceived locus of causality or have a functional significance of control will thwart autonomy and undermine intrinsic motivation, whereas those that promote a more internal perceived locus of causality will increase feelings of autonomy and enhance intrinsic motivation.
 
 
 
-**CET Proposition II**: External events will also affect a person's intrinsic motivation for an activity, to the extent that the events influence the person's perceived competence at the activity.  Events that promote greater perceived competence enhance intrinsic motivation by satisfying the person's need for competence.  Events that meaningfully diminish perceived competence undermine intrinsic motivation.
+> **CET Proposition II**: External events will also affect a person's intrinsic motivation for an activity, to the extent that the events influence the person's perceived competence at the activity.  Events that promote greater perceived competence enhance intrinsic motivation by satisfying the person's need for competence.  Events that meaningfully diminish perceived competence undermine intrinsic motivation.
 
 
 
@@ -114,7 +114,8 @@ This leads to:
 
 
 
-**CET Proposition III:** External events relevant to the initiation and regulation of behaviour have three aspects, each with a functional significance.  The informational aspect, which conveys information about self-determined competence, facilitates an internal perceived locus of causality and perceived competence, thus supporting intrinsic motivation.  The controlling aspect, which pressures people to think, feel, or behave in particular ways, facilitates an external perceived locus of causality, thereby diminishing intrinsic motivation.  The amotivating aspect, which signifies incompetence to obtain outcomes and/or a lack of value for them, undermines both intrinsic and extrinsic motivation and promotes amotivation.  The relative salience of these three aspects for the person, which can be influenced by factors in the interpersonal context and in the person, determines the functional significance of the event, and thus its impact on intrinsic motivation.
+> **CET Proposition III:** External events relevant to the initiation and regulation of behaviour have three aspects, each with a functional significance.  The informational aspect, which conveys information about self-determined competence, facilitates an internal perceived locus of causality and perceived competence, thus supporting intrinsic motivation.  The controlling aspect, which pressures people to think, feel, or behave in particular ways, facilitates an external perceived locus of causality, thereby diminishing intrinsic motivation.  The amotivating aspect, which signifies incompetence to obtain outcomes and/or a lack of value for them, undermines both intrinsic and extrinsic motivation and promotes amotivation.  The relative salience of these three aspects for the person, which can be influenced by factors in the interpersonal context and in the person, determines the functional significance of the event, and thus its impact on intrinsic motivation.
+>
 
 
 
