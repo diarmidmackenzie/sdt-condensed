@@ -136,15 +136,15 @@ The 6 mini-theories of SDT:
 
 4. Basic Psychological Needs Theory (BPNT) elaborates the concept of psychological needs, and relates them to psychological health and well-being
 
-   - Chapter 10 (BPNT) - available by mid-Aug 2021
+   - Chapter 10 (BPNT) - available by mid-Sep 2021
 
 5. Goal Contents Theory
 
-   - Chapter 11 (GCT) - available by end-Aug 2021
+   - Chapter 11 (GCT) - available by end-Sep 2021
 
 6. Relationships Motivation Theory
 
-   - Chapter 12 (RMT) - available by mid-Sep 2021
+   - Chapter 12 (RMT) - available by mid-Oct 2021
 
    
 
@@ -173,5 +173,4 @@ For further information on Self-Determination Theory, see the following links
 #### Contact
 
 If you'd like to contact me about any aspect of this project, please see the contact details in my profile.
-
 
