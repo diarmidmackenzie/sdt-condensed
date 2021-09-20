@@ -6,7 +6,7 @@ Basic Psychological Needs Theory relates the satisfaction and frustration of bas
 
 This chapter explains:
 
-- Why SDT limits the set of basic psychological need to just 3.
+- Why SDT limits the set of basic psychological needs to just 3.
 - The concept of *vitality*, which is a very important dimension of well-being
 - The importance of *awareness* for need satisfaction.
 
@@ -20,7 +20,7 @@ However there is a long history of critique of such an approach, dating back at 
 
 SDT has a *eudaimonic* view of well-being.  Happiness (which is subjective) is understood as a symptom of well-being.
 
-However well-being cannot be understood as *whatever* causes happiness, and the absence of happiness does *not* imply the absence of well-being.  Foe example
+However well-being cannot be understood as *whatever* causes happiness, and the absence of happiness does *not* imply the absence of well-being.  For example
 
 - a patient with bipolar disorder, in the early stages of a manic upswing in mood exhibits happiness, but this happiness is more likely a symptom of ill-health, rather than wellness
 - a drug addict on a high can feel considerable pleasure, but again this is not indicative of wellness
@@ -30,7 +30,7 @@ So, while happiness is (frequently, though not always) a symptom of wellness, we
 
 *Thriving* consists of having vitality, awareness, the ability to exercise one's human capacities, and true self-regulation.
 
-*Fully functioning* individuals are well-connected to their inner needs and states, can perceive circumstances in which they and others find themselves non-defensively, and they are non-compartmentalized in their experience.
+*Fully functioning* individuals are well-connected to their inner needs and states, can non-defensively perceive circumstances in which they and others find themselves, and they are non-compartmentalized in their experience.
 
 SDT posits the empirically testable hypothesis that when people are functioning in this healthy way, on average, they will exhibit more happiness (or SWB).
 
@@ -65,13 +65,13 @@ BPNT predicts that variability in need satisfaction will directly predict variab
 
 At a general level, there is a strong correlation between need satisfaction, and a range of measurable wellness outcomes.  This relationship has been shown to be robust across many cultures.
 
-However, evidence for a clear *causal* relationships tends to come from domain-specific studies.
+However, evidence for a clear *causal* relationship tends to come from domain-specific studies.
 
 A 1993 study looked at the need satisfaction at work, of employees working in a shoe factory in the US.  Need satisfaction predicted both job satisfaction, self-esteem and general mental health.
 
-Other studies in 2001 showed similar results in Bulgarian state-owned industries, and a US data processing company.  A 2004 study of workers at an investment bank showed that workplace need satisfaction led to enhanced vitality, and lower anxiety and somatization.  A 2015 study showed that the positive effects of need satisfaction existed even in situations where participants were relatively unsafe.
+Other studies in 2001 showed similar results in Bulgarian state-owned industries, and a US data processing company.  A 2004 study of workers at an investment bank showed that workplace need satisfaction led to enhanced vitality, and lower anxiety and somatization.  A 2015 study showed that the positive effects of need satisfaction existed even in situations where participants were in relatively unsafe work environments.
 
-Similar effects have been seen in educational settings, and in sports training.  Moreover, the more important the life domain is the the individual, the stronger the impact on need satisfaction in that domain is on overall wellness.
+Similar effects have been seen in educational settings, and in sports training.  Moreover, the more important the life domain is to the individual, the stronger an impact need satisfaction within that domain will have on overall wellness.
 
 In sports research, psychologists have studied need satisfaction and need thwarting as independent factors.  These studies have shown that need satisfaction is most strongly related to positive outcomes (vitality and enjoyment), while need thwarting is most strongly related to negative outcomes (disordered eating, burnout, negative moods, and physical symptoms).  Need frustration in sports was also seen to lead to higher levels of secretory Immunoglobin (SIgA), a biomarker for stress.
 
@@ -125,7 +125,7 @@ In summary, autonomy support is a critical element of any need-supportive enviro
 
 In BPNT, needs are defined functionally, in terms of their *objective* effects on outcomes.
 
-This sets BPNT apart from common ideas about wellness such as *expectancy* and *expectancy-value* theories, which hold that people will derive wellness when a person obtains outcomes that they value, regardless of the content of those values.
+This sets BPNT apart from common ideas about wellness such as *expectancy* and *expectancy-value* theories, which hold that people will derive wellness when a person obtains outcomes that they value, regardless of what those outcomes are.
 
 In BPNT, it is understood that outcomes valued by an individual may, or may not, be aligned with their basic needs.  What impacts wellness is whether or not the basic needs are met, regardless of the value placed on these outcomes by the individual.
 
@@ -145,7 +145,7 @@ This is formally presented thus:
 
 > **BPNT Proposition IV**: Basic need satisfactions of autonomy, competence and relatedness will tend to positively relate to one another, especially at an aggregated level of analysis (i.e. across domains, situations or times).
 
-If this seems obvious, it is worth noting that many psychologist have actively maintained that this is not true.  For example, cultural relativists and some feminists have argued strongly that autonomy and relatedness stand in opposition to each other.  This view can often be traced back to the conflation of *reactive* and *reflective* autonomy (see [chapter 9](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)).
+If this seems obvious, it is worth noting that many psychologists have actively maintained that this is not true.  For example, cultural relativists and some feminists have argued strongly that autonomy and relatedness stand in opposition to each other.  This view can often be traced back to the conflation of *reactive* and *reflective* autonomy (see [chapter 9](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)).
 
 In fact, the correlations between basic needs are so strong that factor analysis of basic needs satisfaction often leads to an analysis in which *total* needs satisfaction is the highest order factor, and the satisfaction of individual needs is reported as lower order factors.
 
@@ -338,13 +338,13 @@ Finally, a 2015 study in the UK found that people with access to views of nature
 
 ### Awareness as a Foundation of Autonomous Motivation and Basic Need Satisfaction
 
-Social and contextual factors have important effects on individuals ability to function autonomously, and these have been extensively studied in SDT.
+Social and contextual factors have important effects on individuals' ability to function autonomously, and these have been extensively studied in SDT.
 
 However, acting with autonomy depends not only on the social context, but also on the capacities of the individual.  Individuals can be capable of self-regulation even when the social context is not optimal - and the strength of this capacity varies between individuals.
 
 The concept of *awareness* is important in this regard.  *Awareness* is understood as open, relaxed, interested attention to oneself, and to the ambient social and physical environment.
 
-Awareness allows a greater level of contact with one's needs, feelings, interests and values, and with the conditions surrounding them.  This means that awareness supports congruence and self-regulation.  A low level of awareness (or either self, or environment, or both) will diminish a person's ability to act with autonomy.
+Awareness allows a greater level of contact with one's needs, feelings, interests and values, and with the conditions surrounding them.  This means that awareness supports congruence and self-regulation.  A low level of awareness (of either self, or environment, or both) will diminish a person's ability to act with autonomy.
 
 #### Mindfulness
 
@@ -378,7 +378,7 @@ However, while automatic behaviours allow for quick responses, with minimal cogn
 
 The heightened observation of what is currently occurring, which arises from mindfulness, can enable people to exercise greater control over these automatic responses, resulting in more of their behaviour being self-endorsed.	
 
-A 2007 study showed that behaviour of individual with low dispositional mindfulness was more strongly influenced by nonconscious processes (as measured by the Implicit Association Test), compared to individuals with higher dispositional mindfulness.
+A 2007 study showed that the behaviour of an individual with low dispositional mindfulness was more strongly influenced by nonconscious processes (as measured by the Implicit Association Test), compared to individuals with higher dispositional mindfulness.
 
 A 2003 study showed that individuals more disposed towards  mindfulness exhibited greater congruence between their self-reported emotional states and their nonconscious emotional states, and greater clarity of emotional experience.
 
@@ -390,7 +390,7 @@ Terror Management Theory has built strong evidence that humans often respond def
 
 A 2010 series of laboratory studies showed that high levels of trait mindfulness mitigated these defensive reactions.
 
-This effect whereby mindfulness decreases automatic defensive reactions, and promotes capacity foe autonomous regulation has also been seen in other domains, such as with conflicts in romantic relationships, ego threats and emotional threats
+This effect, whereby mindfulness decreases automatic defensive reactions and promotes capacity for autonomous regulation, has also been seen in other domains, such as with conflicts in romantic relationships, ego threats and emotional threats
 
 ##### Decreasing Threat Appraisal and Enhanced Coping
 
@@ -400,19 +400,19 @@ A 2015 study looking at mindfulness and autonomy support in the workplace found 
 
 #### Mindfulness Summary
 
-The awareness fostered by mindfulness leeds to fewer automatic reactions, and a greater level of self-endorsed behaviour.
+The awareness fostered by mindfulness leads to fewer automatic reactions, and a greater level of self-endorsed behaviour.
 
 Mindfulness can also be a critical component in the integrative processes that lead to basic need satisfaction, vitality and wellness.
 
 As we will discuss further in chapter 17, mindfulness is an trait that can be actively cultivated.
 
-People can therefore make the decision to become more mindful, more aware,and more autonomous.
+People can therefore make the decision to become more mindful, more aware, and more autonomous.
 
 ### Key Concepts from this Chapter
 
 **Subjective well-being**: A person's own sense of whether or not they are happy.  SDT considers this to be a common symptom of psychological well-being, but not in itself adequate as a definition of well-being.
 
-**Eudaimonia or Flourishing**: Living a life in which happiness is derived from the pursuit of worthwhile goals.
+**Eudaimonia (or Flourishing)**: Living a life in which happiness is derived from the pursuit of worthwhile goals.
 
 **Thriving**: Having vitality, awareness, the ability to exercise one's human capacities, and true self-regulation.
 
@@ -428,7 +428,7 @@ People can therefore make the decision to become more mindful, more aware,and mo
 
 **BPNT Proposition IV**: The three basic psychological needs are all positively correlated with each other.
 
-**Deficit Needs**: Needs such as security, which only drive and energize behaviour when they are not satisfied.  These needs can be understood as derivate of the basic needs: the ultimate driver is the threat to one or more of the three basic needs.
+**Deficit Needs**: Needs that only drive and energize behaviour when they are not satisfied.  For example, security.  These needs can be understood as derivate of the basic needs: the ultimate driver is the threat to one or more of the three basic needs.
 
 **Criteria for Basic Psychological Needs**: In SDT, basic psychological needs are those that satisfy 6 key conditions:
 
@@ -441,9 +441,9 @@ People can therefore make the decision to become more mindful, more aware,and mo
 
 Based on these criteria, and the evidence gathered, SDT holds that there are only 3 Basic Psychological Needs: autonomy, competence and relatedness.
 
-**Meaning**: *Either* the degree to which people, when reflecting on their lives, feel that they have been living in a fulfilling and satisfying way, *or* a person's central and significant agenda or purpose that they are trying to accomplish in their life.  On either definition, SDT understands meaning as an *outcome* that derives from a person meeting their basic psychological needs (and therefore not a basic need in itself).
+**Meaning**: *Either* the degree to which people, when reflecting on their lives, feel that they have been living in a fulfilling and satisfying way, *or* a person's central and significant agenda or purpose that they are trying to accomplish in their life.  By either definition, SDT understands meaning as an *outcome* that derives from a person meeting their basic psychological needs (and therefore not a basic need in itself).
 
-**Self-esteem**: The extent to which a person holds themselves in high esteem or regard.  SDT understand this to be a deficit need, which only becomes salient when basic psychological needs are thwarted, or are under threat.
+**Self-esteem**: The extent to which a person holds themselves in high esteem or regard.  SDT understands this to be a deficit need, which only becomes salient when basic psychological needs are thwarted, or are under threat.
 
 **BPNT Proposition V**: Deficit needs are highly relevant under conditions of threat or distress, but outside of these conditions, satisfying them does not contribute to wellness or flourishing.
 
