@@ -20,7 +20,7 @@ While there are many different ideas about what constitutes a "good life", a com
 
 The selection of life priorities is not just an abstract philosophical question, but also practical question that every person must answer.  SDT tries to explore empirically, the question of what choices tend to lead to the greatest wellness and flourishing in humans.
 
-In 1993, Kasser and Ryan drew a distinction between *intrinsic aspirations*, aspirations that were expected to be closely related to basic need satisfactions, and *extrinsic aspirations*, aspirations that were expected to be only indirectly related to basic needs.  Based on participant questionnaires, for they gave each participant *aspiration indices* (AIs) in various areas, some intrinsic (personal growth, relationships and community involvement), and some extrinsic (financial success and wealth).
+In 1993, Kasser and Ryan drew a distinction between *intrinsic aspirations*, aspirations that were expected to be closely related to basic need satisfactions, and *extrinsic aspirations*, aspirations that were expected to be only indirectly related to basic needs.  Based on participant questionnaires, they gave each participant *aspiration indices* (AIs) in various areas, some intrinsic (personal growth, relationships and community involvement), and some extrinsic (financial success and wealth).
 
 Their study found that each of the intrinsic AIs was positively correlated with wellness indicators, while the AI for financial success was *negatively* correlated with these wellness indicators.
 
@@ -42,7 +42,7 @@ Studies of high school and college students in 2000 and 2001 found that having s
 
 A 2005 study used a very different methodology, based on the stories that people tell about their lives.  It found that those whose stories focussed on intrinsic aspirations displayed and experienced greater well-being than those whose stories focussed on extrinsic aspirations.
 
-These, and other studies, read to the formulation of the first three propositions of GCT:
+These, and other studies, lead to the formulation of the first three propositions of GCT:
 
 > **GCT Proposition I**: Intrinsic goals are defined as those most directly associated with the pursuit of what is inherently valued, such as close relationships, personal growth, and contributing to one's community.  Extrinsic goals, in contrast, are those focused on instrumental outcomes, such as money, fame, power, or outward attractiveness.  These goals can therefore be understood as lying along an axis from intrinsic to extrinsic.
 
@@ -52,7 +52,7 @@ These, and other studies, read to the formulation of the first three proposition
 
 A wide range of research, across a diverse range of cultures, has provided support for these propositions.
 
-A 2005 study collected data from across diverse cultural groups in 15 countries, and found a consistent pattern that aspirations for wealth, fame and image tend to be associated with each other, and tend to be in opposition to aspirations for growth intimacy and community.  Similar results have been found in studies conducted in China and South Korea.
+A 2005 study collected data from across diverse cultural groups in 15 countries, and found a consistent pattern that aspirations for wealth, fame and image tend to be associated with each other, and tend to be in opposition to aspirations for growth, intimacy, and community.  Similar results have been found in studies conducted in China and South Korea.
 
 A 2014 study in the UK and Chile found that extrinsic aspirations were negatively associated with well-being, and positively associated with ill-being.  A range of other studies have found positive relationships between intrinsic aspirations and well-being.
 
@@ -80,7 +80,7 @@ Expectancy-value theory maintains that *attainment* of goals will lead to greate
 
 A 1998 study found that this was indeed true for the attainment of intrinsic goals, but attainment of extrinsic goals provided little enhancement of well-being, suggesting that it is the *content* of goals that matters most in terms of their impact on well-being.
 
-A subsequent 1999 cross-cultural study looked at the relationship between goal attainment and well-being across groups of Russian and US participants.  Goal attainment was positively associated with well-being for all types of goal.  However more detailed analysis revealed that the positive well-being outcomes could be accounted for entirely on the basis of the effects of attainment of intrinsic goals.  The net effect of extrinsic goal attainment, once intrinsic goal attainment had been controlled for, was zero.
+A subsequent 1999 cross-cultural study looked at the relationship between goal attainment and well-being across groups of Russian and US participants.  Goal attainment was positively associated with well-being for all types of goal.  However, more detailed analysis revealed that the positive well-being outcomes could be accounted for entirely on the basis of the effects of attainment of intrinsic goals.  The net effect of extrinsic goal attainment, once intrinsic goal attainment had been controlled for, was zero.
 
 An SDT interpretation of these effects is that attainment of intrinsic goals results in satisfaction of basic psychological needs, which enhances well-being.  Achievement of extrinsic goals would be expected to at least satisfy competence needs, so if the overall effect is zero, this suggests that achieving these goals also comes at a cost in terms of autonomy and/or relatedness.
 
@@ -90,8 +90,8 @@ A 2013 study of working dentists found that those who valued, and felt able to a
 
 A pair of 2009 studies of older people found that
 
-- Among a group with average age of 68, intrinsic goal attainment was associated positively with subjective well-being, and negatively with despair.  Whereas extrinsic goal attainment was unrelated to subjective well-being, but positively correlated with despair.
-- Among a group with average age of 75, intrinsic goal attainment was associated with less ill-being, greater acceptance of death, and less death anxiety.  Extrinsic goal attainment was negatively associated with death acceptance.
+- among a group with an average age of 68, intrinsic goal attainment was associated positively with subjective well-being, and negatively with despair.  Whereas extrinsic goal attainment was unrelated to subjective well-being, but positively correlated with despair.
+- among a group with an average age of 75, intrinsic goal attainment was associated with less ill-being, greater acceptance of death, and less death anxiety.  Extrinsic goal attainment was negatively associated with death acceptance.
 
 A 2014 study of lawyers compared those in high-paying money-related roles with those in public-service roles.  The first set of lawyers were higher paid, but reported more negative affect, lower well-being, and more alcohol consumption.
 
@@ -115,7 +115,7 @@ The first study to look at both aspects was a 1995 study of the short-term striv
 
 The first kind of effect has been recognized for much longer than the second kind of effect.  Therefore researchers have questioned whether the second effect is in fact real, or whether the apparent positive effects of intrinsic aspirations (vs. negative effects of extrinsic aspirations) can be accounted for solely in terms of the fact that the former tends to be autonomously motivated, and the latter tends to be driven by more controlled forms of motivation.
 
-A 2004 study looked carefully at this question.  It looked at both within-person and between person differences, both at a point in  time, and over the course of a year.  In all cases, goal contents were found to have significant effects on well-being, over an above what could be accounted for in terms of the nature of the subjects' motivation.
+A 2004 study looked carefully at this question.  It looked at both within-person and between person differences, both at a point in  time, and over the course of a year.  In all cases, goal contents were found to have significant effects on well-being, over and above what could be accounted for in terms of the nature of the subjects' motivation.
 
 #### The Match of Personal Goals and Contextual Values
 
@@ -185,13 +185,13 @@ Research suggests that not all purchases and expenditures of significant amounts
 
 A 2009 study found that *experiential* purchases (e.g. taking a trip or attending a concert) tended to be positively associated with wellness, whereas *materialistic* purchases (e.g. a bigger TV or a new dress) did not.
 
-A 2012 study found that people felt that experiential purchases were more closely related to their own sense of true self than heir materialistic purchases, and also that people felt they knew more about others' true selves when provided with information about their experiential purchases, rather than their material purchases.
+A 2012 study found that people felt that experiential purchases were more closely related to their own sense of true self than their materialistic purchases, and also that people felt they knew more about others' true selves when provided with information about their experiential purchases, rather than their material purchases.
 
 SDT understands the positive impacts of experiential purchases as being due to this alignment, which means that experiential purchases tend to reflect authentic interests and values, and are therefore more likely to satisfy basic needs.
 
 ### The Development of Extrinsic Aspirations
 
-SDT theorizes that extrinsic aspirations arise from situations in which people have been unable to meet their basic psychological needs.  Where an individual's basic need satisfactions are thwarted in childhood or adolescents, this may result in them becoming particularly vulnerable to a focus on extrinsic aspirations.
+SDT theorizes that extrinsic aspirations arise from situations in which people have been unable to meet their basic psychological needs.  Where an individual's basic need satisfactions are thwarted in childhood or adolescence, this may result in them becoming particularly vulnerable to a focus on extrinsic aspirations.
 
 > **GCT Proposition V:** Individuals whose basic psychological needs have been neglected or frustrated in development are more prone to adopt need substitutes, such as extrinsic life goals, as being personally important.  To the extent that they do so, their well-being will be compromised.
 
@@ -203,7 +203,7 @@ A 1999 study showed similar results.  Teenagers who rated their parents as low i
 
 In contrast, studies in 2003 and 2005 have shown that nurturing conditions that support basic needs, result in a prosocial, connecting orientation in the child, and that children raised in such conditions will tend to grow towards more intrinsic values over time.
 
-However, the there are also familial and cultural factors at play.  Children are likely to integrate the values of those that they feel close to, or want to feel close to.  It has also been shown (in a 2002 study) that children with greater exposure to television tend to develop more extrinsic values, probably as a result of their exposure to celebrity role-models, who tend to be focussed on wealth, fame and image.
+However, there are also familial and cultural factors at play.  Children are likely to integrate the values of those that they feel close to, or want to feel close to.  It has also been shown (in a 2002 study) that children with greater exposure to television tend to develop more extrinsic values, probably as a result of their exposure to celebrity role-models, who tend to be focussed on wealth, fame and image.
 
 #### Influencing People's Aspirations
 
@@ -225,7 +225,7 @@ SDT hypothesizes that different framings will lead to appreciably different outc
 
 > **GCT Proposition VI:** Motivators can frame goals in more extrinsic versus intrinsic terms.  The latter will be more likely to produce sustained engagement, and ultimately, wellness.
 
-A 2004 study manipulated the content of framing goals (intrinsic vs. extrinsic), together with a manipulation of the social context (autonomy-supportive vs. controlling).  The subjects of the study were Belgian students, studying teaching, marketing and physical education.
+A 2004 study manipulated the content of framing goals (intrinsic vs. extrinsic), together with a manipulation of the social context (autonomy-supportive vs. controlling).  The subjects of the study were Belgian students studying teaching, marketing and physical education.
 
 The study found that those whose activity was framed in terms of  intrinsic goals were more engaged in the learning, and more likely to engage in follow-up study, and showed a better conceptual grasp of the topic in tests.
 
@@ -237,7 +237,7 @@ A follow-up study also looked at a "no-goal" framing, and found that framing in 
 
 ### All Goals are Not Created Equal: Applying GCT to Any Goals
 
-GCT has allowed Self-Determination Theory to explain how it is that intrinsic over-arching life goals promote well-being.
+GCT has allowed Self-Determination Theory to explain how intrinsic over-arching life goals promote well-being.
 
 By analysing the basic needs that will be supported, or thwarted, by particular aspirations, it is possible to predict which goals and aspirations will lead to more effective learning, performance, and optimal psychological development.
 
@@ -245,7 +245,7 @@ This leads to:
 
 > **GCT Proposition VII:** Because all goals can be more or less linked to need satisfaction, the relation of personal goals of any type to wellness-related outcomes is a function of (or is mediated by) need satisfactions.
 
-Initial GCT research, beginning in 1996, looked at a certain subset of goals, that seemed like they were different in kind, and might fall into distinct categories, intrinsic & extrinsic.  But there are more goals that are yet to be explored.
+Initial GCT research, beginning in 1996, looked at a certain subset of goals that seemed like they were different in kind, and might fall into distinct categories, intrinsic & extrinsic.  But there are more goals that are yet to be explored.
 
 Goals for power and dominance over others, for example, seems likely to be extrinsic, while goals for generativity (promoting the wellbeing of younger generations) seems likely to be intrinsic.
 
@@ -267,7 +267,7 @@ Mindfulness also has an important relationship to a person's focus on intrinsic 
 
 A 2005 study found that higher levels of mindfulness were associated with greater intrinsic goal orientations, and that both were associated with subjective well-being and ecologically responsible behaviours.
 
-A 2009 study found that mindfulness was associated with lower financial desire discrepancy (i.e. the gap between what one has, and what one desires, financially).  This relationship held, independent of participants economic and social status.
+A 2009 study found that mindfulness was associated with lower financial desire discrepancy (i.e. the gap between what one has, and what one desires, financially).  This relationship held, independent of participants' economic and social status.
 
 Mindfulness has also been associated with greater empathy and compassion for others, and can enhance romantic relationships due to the way it promotes other-centeredness, and one's ability to be truly present with a partner, even in challenging situations.
 
@@ -275,9 +275,9 @@ Mindfulness has also been associated with greater empathy and compassion for oth
 
 Many of the studies referenced in this, and previous chapters, have measured outcomes in terms of subjective well-being.  As discussed at the beginning of [chapter 10](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html), a purely hedonic analysis of well-being is problematic, and there is more to well-being than subjective happiness.
 
-Nevertheless, may studies support the idea that when people are living eudaimonically, autonomously pursuing and attaining intrinsic aspirations, this *does* generally lead to subjective well-being, even if this is not the direct aim.
+Nevertheless, many studies support the idea that when people are living eudaimonically, autonomously pursuing and attaining intrinsic aspirations, this *does* generally lead to subjective well-being, even if this is not the direct aim.
 
-The choices that people make, in terms of their goals and aspirations, are significantly influenced by their need support and thwarting experienced in their development.  But current choices also matter: cultivating mindfulness and open and interested awareness can help individuals to make more informed and integrated choices, which will lead in turn to their better functioning.
+The choices that people make, in terms of their goals and aspirations, are significantly influenced by the thwarting or supporting of their needs during their development.  But current choices also matter: cultivating mindfulness, openness and awareness can help individuals to make more informed and integrated choices, which will lead in turn to their better functioning.
 
 
 
@@ -305,11 +305,11 @@ The choices that people make, in terms of their goals and aspirations, are signi
 
 **GCT Proposition V:** Extrinsic aspirations tend to result from neglect or frustration of needs during development.
 
-**Inherent Value Demonstration**:  A role-model (e.g. a parent) visibly acting in accordance with values that they endorse.  Inherent Value Demonstrations are more likely to lead to integration of values, as compared to mere endrsement of values without accompanying action.
+**Inherent Value Demonstration**:  A role-model (e.g. a parent) visibly acting in accordance with values that they endorse.  Inherent Value Demonstrations are more likely to lead to integration of values, as compared to mere endorsement of values without accompanying action.
 
 **GCT Proposition VI:** Framing activities in terms of extrinsic vs. intrinsic goals will influence engagement with the activity, and ultimately wellness.
 
-**GCT Proposition VII:** The impact of goals on on wellness can be predicted by analysing the needs that striving for, and attaining the goal, is likely to satisfy or thwart.
+**GCT Proposition VII:** The impact of goals on wellness can be predicted by analysing the needs that striving for, and attaining the goal, is likely to satisfy or thwart.
 
 **Financial Desire Discrepancy**: The gap between what one has, and what one desires, financially.  Mindfulness is associated with lower financial desire discrepancy, which is in turn associated with greater well-being (independently of actual social or economic status).
 
