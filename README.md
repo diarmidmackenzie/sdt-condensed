@@ -13,6 +13,7 @@ If you already know about these pages and want to jump straight in, use these li
 - [Chapter 8 (OIT)](https://diarmidmackenzie.github.io/sdt-condensed/OIT.html)
 - [Chapter 9 (COT)](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)
 - [Chapter 10 (BPNT)](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html)
+- [Chapter 11 (GCT)](https://diarmidmackenzie.github.io/sdt-condensed/GCT.html)
 
 #### Background
 
@@ -139,17 +140,17 @@ The 6 mini-theories of SDT:
 
    - [Chapter 10 (BPNT)](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html) - available now
 
-5. Goal Contents Theory
+5. Goal Contents Theory (GCT) relates life goals and aspirations to psychological well-being and ill-being.
 
-   - Chapter 11 (GCT) - available by end-Sep 2021
+   - [Chapter 11 (GCT)](https://diarmidmackenzie.github.io/sdt-condensed/GCT.html) - available now
 
 6. Relationships Motivation Theory
 
-   - Chapter 12 (RMT) - available by mid-Oct 2021
+   - Chapter 12 (RMT) - available early January 2021
 
    
 
-Applied chapters (coming later this year)
+Applied chapters (coming early 2022)
 
 - Chapter 13: Parenting - Availability TBC
 
