@@ -14,6 +14,7 @@ If you already know about these pages and want to jump straight in, use these li
 - [Chapter 9 (COT)](https://diarmidmackenzie.github.io/sdt-condensed/COT.html)
 - [Chapter 10 (BPNT)](https://diarmidmackenzie.github.io/sdt-condensed/BPNT.html)
 - [Chapter 11 (GCT)](https://diarmidmackenzie.github.io/sdt-condensed/GCT.html)
+- [Chapter 12 (RMT)](https://diarmidmackenzie.github.io/sdt-condensed/RMT.html)
 
 #### Background
 
@@ -146,11 +147,11 @@ The 6 mini-theories of SDT:
 
 6. Relationships Motivation Theory
 
-   - Chapter 12 (RMT) - available early January 2021
+   - [Chapter 12 (RMT)](https://diarmidmackenzie.github.io/sdt-condensed/RMT.html) - available now
 
    
 
-Applied chapters (coming early 2022)
+Applied chapters (coming later in 2022)
 
 - Chapter 13: Parenting - Availability TBC
 
