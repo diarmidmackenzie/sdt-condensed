@@ -298,19 +298,19 @@ Certain behaviours (such as conditional regard) can create conflict between thes
 
 **RMT Proposition V:** Participants in autonomy-supportive relationships experience mutuality of autonomy support, which leads to relationship satisfaction, secure attachment, and well-being of both partners.
 
-**Conditional Regard: ** The behaviour of making the love, attention and affection that is offered to another person contingent on that partner meeting certain particular demands or expectations.
+**Conditional Regard:** The behaviour of making the love, attention and affection that is offered to another person contingent on that partner meeting certain particular demands or expectations.
 
 **Conditional Positive Regard:**  One form of conditional regard.  Giving of attention and affection as a reward.
 
 **Conditional Negative Regard:**  Another form of conditional regard.  Withdrawal of affection and attention as a punishment
 
-**Parental Conditional Regard (PCR): ** Conditional regard (which could be positive, negative or both) from a parent towards their child.
+**Parental Conditional Regard (PCR):** Conditional regard (which could be positive, negative or both) from a parent towards their child.
 
 **RMT Proposition VI**: When circumstances turn one basic psychological need against another, this will negatively impact relationship quality, and wellbeing of those in the relationship.
 
-**Relationship-Contingent Self-Esteem**: When a person's self-esteem is contingent upon their romantic relationships.
+**Relationship-Contingent Self-Esteem:**: When a person's self-esteem is contingent upon their romantic relationships.
 
-**Objectification: ** Treating or relating to another person as an object, or something to use.
+**Objectification:** Treating or relating to another person as an object, or something to use.
 
 **Self-objectification:** When a person takes an objectifying view of themselves (i.e. seeing themselves as an object, or something for others to use), a perspective that tends to diminish their sense of autonomy.
 
