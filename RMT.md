@@ -62,7 +62,7 @@ One of the conditions under which close personal relationships tend to satisfy r
 
 The first major study to apply SDT concepts to romantic relationships found that greater autonomy experienced by each partner resulted in greater general relationship satisfaction, and greater dyadic adjustment (a measure of relationship quality developed by Springer in 1976).
 
-The experience of autonomy was also associated with each of: viewing relationship problems as challenges rather than annoyances, experiencing less distress, and being more inclined to work through problems.
+The experience of autonomy was also associated with each of the following: viewing relationship problems as challenges rather than annoyances, experiencing less distress, and being more inclined to work through problems.
 
 A series of 4 studies in 2005 extended this research.  Across this series of studies, relational autonomy reliably predicted individuals experiencing more satisfaction in their relationship (including after disagreements), greater understanding of their partner, and less defensiveness in conflicts.
 
@@ -104,7 +104,7 @@ Various 2010 experiments found that when people were helped by others for what t
 
 In addition to autonomy, RMT maintains that the satisfaction of the two other basic psychological needs (competence and relatedness) are also vital for the maintenance of relationships over time, and the well-being of the partners.
 
-In any context, the three basic psychologically needs are mutually supportive, and hence correlated.  However, in the context of relationships, the dynamics of support offered by a partner increase this interdependence between the three basic needs.
+In any context, the three basic psychological needs are mutually supportive, and hence correlated.  However, in the context of relationships, the dynamics of support offered by a partner increase this interdependence between the three basic needs.
 
 This observation leads to:
 
@@ -150,11 +150,11 @@ Autonomy support in relationships does not only promote autonomy, but also promo
 
 SDT is unique among psychological theories in drawing a strong distinction between independence and autonomy.  A person can be autonomously dependent on another, and indeed this is often a positive element in close relationships.
 
-*Emotional reliance* is a person's willingness to rely on relational partners at times of heightened emotion (positive or negative).  A 2005 study looked at between-person and within-person variations in emotional reliance.  The study found that greater emotional reliance was associated with greater wellness.  It also found that the level emotional reliance within a particular relationship was strongly associated with the level of autonomy support provided within that relationship.  This was found to be true for both parent-child relationships, and also in adult relationships between romantic partners and best friends.
+*Emotional reliance* is a person's willingness to rely on relational partners at times of heightened emotion (positive or negative).  A 2005 study looked at between-person and within-person variations in emotional reliance.  The study found that greater emotional reliance was associated with greater wellness.  It also found that the level of emotional reliance within a particular relationship was strongly associated with the level of autonomy support provided within that relationship.  This was found to be true for both parent-child relationships, and also in adult relationships between romantic partners and best friends.
 
 A 2006 study found that when people experienced greater need satisfaction in relationships, they experienced more contact with their inner emotions, resulting in a greater sense of intimacy, and more feelings of vitality when with the other person.
 
-A 2009 study of young adults in Russia and China found that emotional reliance we predicted by an individual's experience of autonomy support, and in turn predicted greater psychological wellbeing.
+A 2009 study of young adults in Russia and China found that emotional reliance was predicted by an individual's experience of autonomy support, and in turn predicted greater psychological wellbeing.
 
 In summary, turning to others at times of heightened emotion promotes wellness.  And at these times, people prefer to turn to those who they find most autonomy-supportive.
 
@@ -190,7 +190,7 @@ The studies also found the following patterns:
 
 - in relationships with a high level of autonomy support, there were fewer negative feelings overall, but those negative feelings that did arise were more easily discussed than were negative feelings in less autonomy-supportive relationships.
 - experiences of autonomy support were associated with each of: the level of autonomy support provided, security of attachment, emotional reliance, and dyadic adjustment (a specific technical measure of "relationship quality")
-- providing autonomy support had a positive impact on the provider's experience of relationship quality and wellbeing - in fact, giving autonomy support seemed to have a stronger impact on a person's wellbeing than receiving it
+- providing autonomy support had a positive impact on the provider's experience of relationship quality and wellbeing - in fact, giving autonomy support seemed to have a stronger impact on a person's wellbeing than receiving it.
 
 ### Conditional Regard: Turning Basic Psychological Needs Against Each Other
 
@@ -208,11 +208,11 @@ According to RMT, such situations will be damaging, as they inevitably lead to o
 
 This is one example of basic needs being turned against each other.
 
-A common example is *Parental Conditional Regard* (PCR), where parents withdraws expressions of love or affection in an attempt to control a child's behaviour.  This is discussed in detail in a later chapter, but we provide a brief overview here.
+A common example is *Parental Conditional Regard* (PCR), where a parent withdraws expressions of love or affection in an attempt to control a child's behaviour.  This is discussed in detail in a later chapter, but we provide a brief overview here.
 
 A 2004 study of college students examined the effect of parental conditional regard.  Students who had experienced more conditional regard from their parents felt more rejected by their parents, as they had not been accepted for *themselves*, and they felt more anger and resentment towards their parents.
 
-They *did* experience higher internal pressure to perform the behaviours upon which their parents' regard had been contingent.  However this came at a cost to their wellbeing, including lower self-esteem, poorer coping strategies, short-lived satisfaction after enacting desired behaviours, and moreguilt and shame when failing to enact behaviours.
+They *did* experience higher internal pressure to perform the behaviours upon which their parents' regard had been contingent.  However this came at a cost to their wellbeing, including lower self-esteem, poorer coping strategies, short-lived satisfaction after enacting desired behaviours, and more guilt and shame when failing to enact behaviours.
 
 ##### PCR and Peer Relationships
 
@@ -284,7 +284,7 @@ Certain behaviours (such as conditional regard) can create conflict between thes
 
 **RMT Proposition IIIb:** When basic psychological needs are frustrated within a relationship, this leads to relationship dysfunction, dissatisfaction, and ill-being.
 
-**Autonomy Support:** A person in a relationship provides *autonomy support* when they act in a way that supports and promote their partner functioning in an autonomous way (i.e. in alignment with their authentic self).
+**Autonomy Support:** A person in a relationship provides *autonomy support* when they act in a way that supports and promotes their partner functioning in an autonomous way (i.e. in alignment with their authentic self).
 
 **Emotional reliance:** A person's willingness to rely on relational partners at times of heightened emotion (positive or negative).  
 
@@ -304,7 +304,7 @@ Certain behaviours (such as conditional regard) can create conflict between thes
 
 **Conditional Negative Regard:**  Another form of conditional regard.  Withdrawal of affection and attention as a punishment
 
-**Parental Conditional Regard (PCR):** Conditional regard (which could be positive, negative or both) from a parent towards their child.
+**Parental Conditional Regard (PCR):** Conditional regard (which could be positive, negative, or both) from a parent towards their child.
 
 **RMT Proposition VI**: When circumstances turn one basic psychological need against another, this will negatively impact relationship quality, and wellbeing of those in the relationship.
 
